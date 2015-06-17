@@ -1,0 +1,738 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\UKBV\ukbv.sct
+SECTORTITLE:ukbv.sct
+ARTCC boundary:UKBV_FIR:
+ARTCC high boundary:TMA_Kyiv_TC-1+TC-2:
+ARTCC low boundary:AFIS UKKE:
+ARTCC low boundary:CTR UKBB:
+ARTCC low boundary:CTR UKKK:
+ARTCC low boundary:CTR UKKM:
+ARTCC low boundary:TMA Kyiv TC-3+TC-4 (JOINT):
+ARTCC low boundary:TMA Kyiv TC-5:
+Fixes:ABROK:name
+Fixes:ABROK:symbol
+Fixes:AKULO:name
+Fixes:AKULO:symbol
+Fixes:AMKAB:name
+Fixes:AMKAB:symbol
+Fixes:ARPOD:name
+Fixes:ARPOD:symbol
+Fixes:ATREK:name
+Fixes:ATREK:symbol
+Fixes:BABLA:name
+Fixes:BABLA:symbol
+Fixes:BABSU:name
+Fixes:BABSU:symbol
+Fixes:BAKOK:name
+Fixes:BAKOK:symbol
+Fixes:BAREN:name
+Fixes:BAREN:symbol
+Fixes:BASOR:name
+Fixes:BASOR:symbol
+Fixes:BB102:name
+Fixes:BB102:symbol
+Fixes:BB103:name
+Fixes:BB103:symbol
+Fixes:BB104:name
+Fixes:BB104:symbol
+Fixes:BB105:name
+Fixes:BB105:symbol
+Fixes:BB106:name
+Fixes:BB106:symbol
+Fixes:BB301:name
+Fixes:BB301:symbol
+Fixes:BB302:name
+Fixes:BB302:symbol
+Fixes:BB303:name
+Fixes:BB303:symbol
+Fixes:BB304:name
+Fixes:BB304:symbol
+Fixes:BB305:name
+Fixes:BB305:symbol
+Fixes:BB401:name
+Fixes:BB401:symbol
+Fixes:BB402:name
+Fixes:BB402:symbol
+Fixes:BB403:name
+Fixes:BB403:symbol
+Fixes:BB404:name
+Fixes:BB404:symbol
+Fixes:BB405:name
+Fixes:BB405:symbol
+Fixes:BB406:name
+Fixes:BB406:symbol
+Fixes:BB407:name
+Fixes:BB407:symbol
+Fixes:BB408:name
+Fixes:BB408:symbol
+Fixes:BB409:name
+Fixes:BB409:symbol
+Fixes:BB410:name
+Fixes:BB410:symbol
+Fixes:BB411:name
+Fixes:BB411:symbol
+Fixes:BB412:name
+Fixes:BB412:symbol
+Fixes:BB413:name
+Fixes:BB413:symbol
+Fixes:BB414:name
+Fixes:BB414:symbol
+Fixes:BB415:name
+Fixes:BB415:symbol
+Fixes:BB416:name
+Fixes:BB416:symbol
+Fixes:BB417:name
+Fixes:BB417:symbol
+Fixes:BB418:name
+Fixes:BB418:symbol
+Fixes:BB419:name
+Fixes:BB419:symbol
+Fixes:BB420:name
+Fixes:BB420:symbol
+Fixes:BB421:name
+Fixes:BB421:symbol
+Fixes:BB422:name
+Fixes:BB422:symbol
+Fixes:BB423:name
+Fixes:BB423:symbol
+Fixes:BB424:name
+Fixes:BB424:symbol
+Fixes:BB502:name
+Fixes:BB502:symbol
+Fixes:BB503:name
+Fixes:BB503:symbol
+Fixes:BB504:name
+Fixes:BB504:symbol
+Fixes:BB505:name
+Fixes:BB505:symbol
+Fixes:BB506:name
+Fixes:BB506:symbol
+Fixes:BB507:name
+Fixes:BB507:symbol
+Fixes:BB601:name
+Fixes:BB601:symbol
+Fixes:BB602:name
+Fixes:BB602:symbol
+Fixes:BB603:name
+Fixes:BB603:symbol
+Fixes:BB604:name
+Fixes:BB604:symbol
+Fixes:BB605:name
+Fixes:BB605:symbol
+Fixes:BB606:name
+Fixes:BB606:symbol
+Fixes:BB607:name
+Fixes:BB607:symbol
+Fixes:BB608:name
+Fixes:BB608:symbol
+Fixes:BB609:name
+Fixes:BB609:symbol
+Fixes:BB610:name
+Fixes:BB610:symbol
+Fixes:BB611:name
+Fixes:BB611:symbol
+Fixes:BB612:name
+Fixes:BB612:symbol
+Fixes:BB613:name
+Fixes:BB613:symbol
+Fixes:BB614:name
+Fixes:BB614:symbol
+Fixes:BB615:name
+Fixes:BB615:symbol
+Fixes:BB616:name
+Fixes:BB616:symbol
+Fixes:BB617:name
+Fixes:BB617:symbol
+Fixes:BB618:name
+Fixes:BB618:symbol
+Fixes:BB619:name
+Fixes:BB619:symbol
+Fixes:BB620:name
+Fixes:BB620:symbol
+Fixes:BB621:name
+Fixes:BB621:symbol
+Fixes:BB622:name
+Fixes:BB622:symbol
+Fixes:BB623:name
+Fixes:BB623:symbol
+Fixes:BB624:name
+Fixes:BB624:symbol
+Fixes:BB702:name
+Fixes:BB702:symbol
+Fixes:BB703:name
+Fixes:BB703:symbol
+Fixes:BB704:name
+Fixes:BB704:symbol
+Fixes:BB705:name
+Fixes:BB705:symbol
+Fixes:BB706:name
+Fixes:BB706:symbol
+Fixes:BB707:name
+Fixes:BB707:symbol
+Fixes:BEMBI:name
+Fixes:BEMBI:symbol
+Fixes:BO:name
+Fixes:BO:symbol
+Fixes:BOGMA:name
+Fixes:BOGMA:symbol
+Fixes:BRP:name
+Fixes:BRP:symbol
+Fixes:BRP36:name
+Fixes:BRP36:symbol
+Fixes:BUDUK:name
+Fixes:BUDUK:symbol
+Fixes:CF08:name
+Fixes:CF08:symbol
+Fixes:CF15:name
+Fixes:CF15:symbol
+Fixes:CF26:name
+Fixes:CF26:symbol
+Fixes:CF33:name
+Fixes:CF33:symbol
+Fixes:CH:name
+Fixes:CH:symbol
+Fixes:CY:name
+Fixes:CY:symbol
+Fixes:D081G:name
+Fixes:D081G:symbol
+Fixes:D085S:name
+Fixes:D085S:symbol
+Fixes:D086S:name
+Fixes:D086S:symbol
+Fixes:D134E:name
+Fixes:D134E:symbol
+Fixes:D142K:name
+Fixes:D142K:symbol
+Fixes:D161K:name
+Fixes:D161K:symbol
+Fixes:D166F:name
+Fixes:D166F:symbol
+Fixes:D177P:name
+Fixes:D177P:symbol
+Fixes:D180H:name
+Fixes:D180H:symbol
+Fixes:D188O:name
+Fixes:D188O:symbol
+Fixes:D214S:name
+Fixes:D214S:symbol
+Fixes:D232T:name
+Fixes:D232T:symbol
+Fixes:D235R:name
+Fixes:D235R:symbol
+Fixes:D261D:name
+Fixes:D261D:symbol
+Fixes:D271C:name
+Fixes:D271C:symbol
+Fixes:D286I:name
+Fixes:D286I:symbol
+Fixes:D290W:name
+Fixes:D290W:symbol
+Fixes:D291Y:name
+Fixes:D291Y:symbol
+Fixes:D293R:name
+Fixes:D293R:symbol
+Fixes:D299L:name
+Fixes:D299L:symbol
+Fixes:D301B:name
+Fixes:D301B:symbol
+Fixes:D305I:name
+Fixes:D305I:symbol
+Fixes:D305Y:name
+Fixes:D305Y:symbol
+Fixes:D327I:name
+Fixes:D327I:symbol
+Fixes:D360G:name
+Fixes:D360G:symbol
+Fixes:DEKAD:name
+Fixes:DEKAD:symbol
+Fixes:DEMER:name
+Fixes:DEMER:symbol
+Fixes:DORER:name
+Fixes:DORER:symbol
+Fixes:EDIMI:name
+Fixes:EDIMI:symbol
+Fixes:ELNIK:name
+Fixes:ELNIK:symbol
+Fixes:ETOKA:name
+Fixes:ETOKA:symbol
+Fixes:GAMLA:name
+Fixes:GAMLA:symbol
+Fixes:GE:name
+Fixes:GE:symbol
+Fixes:GEPTO:name
+Fixes:GEPTO:symbol
+Fixes:GOBLI:name
+Fixes:GOBLI:symbol
+Fixes:GODOD:name
+Fixes:GODOD:symbol
+Fixes:GOLKU:name
+Fixes:GOLKU:symbol
+Fixes:GOROS:name
+Fixes:GOROS:symbol
+Fixes:GOTAP:name
+Fixes:GOTAP:symbol
+Fixes:IRBOL:name
+Fixes:IRBOL:symbol
+Fixes:KEDUB:name
+Fixes:KEDUB:symbol
+Fixes:KIBER:name
+Fixes:KIBER:symbol
+Fixes:KK101:name
+Fixes:KK101:symbol
+Fixes:KK102:name
+Fixes:KK102:symbol
+Fixes:KK103:name
+Fixes:KK103:symbol
+Fixes:KK104:name
+Fixes:KK104:symbol
+Fixes:KK105:name
+Fixes:KK105:symbol
+Fixes:KK106:name
+Fixes:KK106:symbol
+Fixes:KK107:name
+Fixes:KK107:symbol
+Fixes:KK301:name
+Fixes:KK301:symbol
+Fixes:KK302:name
+Fixes:KK302:symbol
+Fixes:KK303:name
+Fixes:KK303:symbol
+Fixes:KK304:name
+Fixes:KK304:symbol
+Fixes:KK305:name
+Fixes:KK305:symbol
+Fixes:KK306:name
+Fixes:KK306:symbol
+Fixes:KK307:name
+Fixes:KK307:symbol
+Fixes:KK308:name
+Fixes:KK308:symbol
+Fixes:KK601:name
+Fixes:KK601:symbol
+Fixes:KK602:name
+Fixes:KK602:symbol
+Fixes:KK603:name
+Fixes:KK603:symbol
+Fixes:KK604:name
+Fixes:KK604:symbol
+Fixes:KK605:name
+Fixes:KK605:symbol
+Fixes:KK606:name
+Fixes:KK606:symbol
+Fixes:KK607:name
+Fixes:KK607:symbol
+Fixes:KK608:name
+Fixes:KK608:symbol
+Fixes:KK609:name
+Fixes:KK609:symbol
+Fixes:KK610:name
+Fixes:KK610:symbol
+Fixes:KK611:name
+Fixes:KK611:symbol
+Fixes:KK801:name
+Fixes:KK801:symbol
+Fixes:KK802:name
+Fixes:KK802:symbol
+Fixes:KK803:name
+Fixes:KK803:symbol
+Fixes:KK804:name
+Fixes:KK804:symbol
+Fixes:KK805:name
+Fixes:KK805:symbol
+Fixes:KK806:name
+Fixes:KK806:symbol
+Fixes:KK807:name
+Fixes:KK807:symbol
+Fixes:KK808:name
+Fixes:KK808:symbol
+Fixes:KNIAZHYCHI:name
+Fixes:KNIAZHYCHI:symbol
+Fixes:KO:name
+Fixes:KO:symbol
+Fixes:KOKUM:name
+Fixes:KOKUM:symbol
+Fixes:KONIP:name
+Fixes:KONIP:symbol
+Fixes:KOROP:name
+Fixes:KOROP:symbol
+Fixes:KOSNA:name
+Fixes:KOSNA:symbol
+Fixes:KR:name
+Fixes:KR:symbol
+Fixes:KUROS:name
+Fixes:KUROS:symbol
+Fixes:KUVAL:name
+Fixes:KUVAL:symbol
+Fixes:LABOD:name
+Fixes:LABOD:symbol
+Fixes:LAMEX:name
+Fixes:LAMEX:symbol
+Fixes:LAPVA:name
+Fixes:LAPVA:symbol
+Fixes:LASDA:name
+Fixes:LASDA:symbol
+Fixes:LAVDA:name
+Fixes:LAVDA:symbol
+Fixes:LIDNO:name
+Fixes:LIDNO:symbol
+Fixes:LINDU:name
+Fixes:LINDU:symbol
+Fixes:LOKSO:name
+Fixes:LOKSO:symbol
+Fixes:LORDU:name
+Fixes:LORDU:symbol
+Fixes:LOVIK:name
+Fixes:LOVIK:symbol
+Fixes:LUKOL:name
+Fixes:LUKOL:symbol
+Fixes:LULAP:name
+Fixes:LULAP:symbol
+Fixes:LUTIK:name
+Fixes:LUTIK:symbol
+Fixes:MIMKO:name
+Fixes:MIMKO:symbol
+Fixes:NANIR:name
+Fixes:NANIR:symbol
+Fixes:NEMIP:name
+Fixes:NEMIP:symbol
+Fixes:NEVRU:name
+Fixes:NEVRU:symbol
+Fixes:NIKIG:name
+Fixes:NIKIG:symbol
+Fixes:NIROV:name
+Fixes:NIROV:symbol
+Fixes:NM:name
+Fixes:NM:symbol
+Fixes:NOLDU:name
+Fixes:NOLDU:symbol
+Fixes:OKROT:name
+Fixes:OKROT:symbol
+Fixes:OLKOM:name
+Fixes:OLKOM:symbol
+Fixes:OTKUS:name
+Fixes:OTKUS:symbol
+Fixes:OTPAK:name
+Fixes:OTPAK:symbol
+Fixes:PEKIT:name
+Fixes:PEKIT:symbol
+Fixes:PI:name
+Fixes:PI:symbol
+Fixes:PIMEN:name
+Fixes:PIMEN:symbol
+Fixes:PISOK:name
+Fixes:PISOK:symbol
+Fixes:POBUV:name
+Fixes:POBUV:symbol
+Fixes:PROTSIV:name
+Fixes:PROTSIV:symbol
+Fixes:RABEN:name
+Fixes:RABEN:symbol
+Fixes:RANOM:name
+Fixes:RANOM:symbol
+Fixes:REPLI:name
+Fixes:REPLI:symbol
+Fixes:RIXOS:name
+Fixes:RIXOS:symbol
+Fixes:RONIT:name
+Fixes:RONIT:symbol
+Fixes:ROSUD:name
+Fixes:ROSUD:symbol
+Fixes:RS:name
+Fixes:RS:symbol
+Fixes:RUBOS:name
+Fixes:RUBOS:symbol
+Fixes:SITBA:name
+Fixes:SITBA:symbol
+Fixes:SL:name
+Fixes:SL:symbol
+Fixes:SLV:name
+Fixes:SLV:symbol
+Fixes:SM:name
+Fixes:SM:symbol
+Fixes:SOPIM:name
+Fixes:SOPIM:symbol
+Fixes:SORIK:name
+Fixes:SORIK:symbol
+Fixes:SORON:name
+Fixes:SORON:symbol
+Fixes:SOVOK:name
+Fixes:SOVOK:symbol
+Fixes:SULUM:name
+Fixes:SULUM:symbol
+Fixes:SV:name
+Fixes:SV:symbol
+Fixes:SW:name
+Fixes:SW:symbol
+Fixes:TABAV:name
+Fixes:TABAV:symbol
+Fixes:TAKET:name
+Fixes:TAKET:symbol
+Fixes:TALOB:name
+Fixes:TALOB:symbol
+Fixes:TEPLO:name
+Fixes:TEPLO:symbol
+Fixes:TIMOS:name
+Fixes:TIMOS:symbol
+Fixes:TIRAS:name
+Fixes:TIRAS:symbol
+Fixes:TUVOG:name
+Fixes:TUVOG:symbol
+Fixes:UMOGA:name
+Fixes:UMOGA:symbol
+Fixes:VASON:name
+Fixes:VASON:symbol
+Fixes:VEBIX:name
+Fixes:VEBIX:symbol
+Fixes:VESEL:name
+Fixes:VESEL:symbol
+Fixes:VIN:name
+Fixes:VIN:symbol
+Fixes:ZK30A:name
+Fixes:ZK30A:symbol
+Fixes:ZK30B:name
+Fixes:ZK30B:symbol
+NDBs:B:frequency
+NDBs:B:name
+NDBs:B:symbol
+NDBs:BI:frequency
+NDBs:BI:name
+NDBs:BI:symbol
+NDBs:BO:frequency
+NDBs:BO:name
+NDBs:BO:symbol
+NDBs:C:frequency
+NDBs:C:name
+NDBs:C:symbol
+NDBs:CH:frequency
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:CK:frequency
+NDBs:CK:name
+NDBs:CK:symbol
+NDBs:CY:frequency
+NDBs:CY:name
+NDBs:CY:symbol
+NDBs:E:frequency
+NDBs:E:name
+NDBs:E:symbol
+NDBs:GE:frequency
+NDBs:GE:name
+NDBs:GE:symbol
+NDBs:GO:frequency
+NDBs:GO:name
+NDBs:GO:symbol
+NDBs:I:frequency
+NDBs:I:frequency
+NDBs:I:name
+NDBs:I:name
+NDBs:I:symbol
+NDBs:I:symbol
+NDBs:JA:frequency
+NDBs:JA:name
+NDBs:JA:symbol
+NDBs:KB:frequency
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KE:frequency
+NDBs:KE:name
+NDBs:KE:symbol
+NDBs:KO:frequency
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KR:frequency
+NDBs:KR:name
+NDBs:KR:symbol
+NDBs:LC:frequency
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:M:frequency
+NDBs:M:name
+NDBs:M:symbol
+NDBs:MV:frequency
+NDBs:MV:name
+NDBs:MV:symbol
+NDBs:N:frequency
+NDBs:N:name
+NDBs:N:symbol
+NDBs:NM:frequency
+NDBs:NM:name
+NDBs:NM:symbol
+NDBs:NO:frequency
+NDBs:NO:name
+NDBs:NO:symbol
+NDBs:O:frequency
+NDBs:O:frequency
+NDBs:O:name
+NDBs:O:name
+NDBs:O:symbol
+NDBs:O:symbol
+NDBs:PI:frequency
+NDBs:PI:name
+NDBs:PI:symbol
+NDBs:RG:frequency
+NDBs:RG:name
+NDBs:RG:symbol
+NDBs:RS:frequency
+NDBs:RS:name
+NDBs:RS:symbol
+NDBs:SL:frequency
+NDBs:SL:name
+NDBs:SL:symbol
+NDBs:SM:frequency
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SV:frequency
+NDBs:SV:name
+NDBs:SV:symbol
+NDBs:SW:frequency
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:TR:frequency
+NDBs:TR:name
+NDBs:TR:symbol
+NDBs:WI:frequency
+NDBs:WI:name
+NDBs:WI:symbol
+NDBs:WN:frequency
+NDBs:WN:name
+NDBs:WN:symbol
+NDBs:ZK:frequency
+NDBs:ZK:name
+NDBs:ZK:symbol
+Runways:UKBB BORYSPIL 18L-36R:centerline
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 left base
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 left ticks
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 left vectoring
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right base
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right ticks
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right vectoring
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left base
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left ticks
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left vectoring
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right base
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right ticks
+Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right vectoring
+Runways:UKBB BORYSPIL 18L-36R:name
+Runways:UKBB BORYSPIL 18R-36L:centerline
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 left base
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 left ticks
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 left vectoring
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 right base
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 right ticks
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 1 right vectoring
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 left base
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 left ticks
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 left vectoring
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 right base
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 right ticks
+Runways:UKBB BORYSPIL 18R-36L:extended centerline 2 right vectoring
+Runways:UKBB BORYSPIL 18R-36L:name
+Runways:UKKE CHERKASY 14-32:centerline
+Runways:UKKE CHERKASY 14-32:extended centerline 1
+Runways:UKKE CHERKASY 14-32:extended centerline 1 left base
+Runways:UKKE CHERKASY 14-32:extended centerline 1 left ticks
+Runways:UKKE CHERKASY 14-32:extended centerline 1 left vectoring
+Runways:UKKE CHERKASY 14-32:extended centerline 1 right base
+Runways:UKKE CHERKASY 14-32:extended centerline 1 right ticks
+Runways:UKKE CHERKASY 14-32:extended centerline 1 right vectoring
+Runways:UKKE CHERKASY 14-32:extended centerline 2
+Runways:UKKE CHERKASY 14-32:extended centerline 2 left base
+Runways:UKKE CHERKASY 14-32:extended centerline 2 left ticks
+Runways:UKKE CHERKASY 14-32:extended centerline 2 left vectoring
+Runways:UKKE CHERKASY 14-32:extended centerline 2 right base
+Runways:UKKE CHERKASY 14-32:extended centerline 2 right ticks
+Runways:UKKE CHERKASY 14-32:extended centerline 2 right vectoring
+Runways:UKKE CHERKASY 14-32:name
+Runways:UKKK ZHULIANY 08-26:centerline
+Runways:UKKK ZHULIANY 08-26:extended centerline 1
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 left base
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 left ticks
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 left vectoring
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 right base
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 right ticks
+Runways:UKKK ZHULIANY 08-26:extended centerline 1 right vectoring
+Runways:UKKK ZHULIANY 08-26:extended centerline 2
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 left base
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 left ticks
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 left vectoring
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 right base
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 right ticks
+Runways:UKKK ZHULIANY 08-26:extended centerline 2 right vectoring
+Runways:UKKK ZHULIANY 08-26:name
+Runways:UKKM ANTONOV 15-33:centerline
+Runways:UKKM ANTONOV 15-33:extended centerline 1
+Runways:UKKM ANTONOV 15-33:extended centerline 1 left base
+Runways:UKKM ANTONOV 15-33:extended centerline 1 left ticks
+Runways:UKKM ANTONOV 15-33:extended centerline 1 left vectoring
+Runways:UKKM ANTONOV 15-33:extended centerline 1 right base
+Runways:UKKM ANTONOV 15-33:extended centerline 1 right ticks
+Runways:UKKM ANTONOV 15-33:extended centerline 1 right vectoring
+Runways:UKKM ANTONOV 15-33:extended centerline 2
+Runways:UKKM ANTONOV 15-33:extended centerline 2 left base
+Runways:UKKM ANTONOV 15-33:extended centerline 2 left ticks
+Runways:UKKM ANTONOV 15-33:extended centerline 2 left vectoring
+Runways:UKKM ANTONOV 15-33:extended centerline 2 right base
+Runways:UKKM ANTONOV 15-33:extended centerline 2 right ticks
+Runways:UKKM ANTONOV 15-33:extended centerline 2 right vectoring
+Runways:UKKM ANTONOV 15-33:name
+Runways:UKKO OZERNE INTL 11-29:centerline
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 left base
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 left ticks
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 left vectoring
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 right base
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 right ticks
+Runways:UKKO OZERNE INTL 11-29:extended centerline 1 right vectoring
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 left base
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 left ticks
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 left vectoring
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 right base
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 right ticks
+Runways:UKKO OZERNE INTL 11-29:extended centerline 2 right vectoring
+Runways:UKKO OZERNE INTL 11-29:name
+Runways:UKWW GAVRYSHIVKA 13-31:centerline
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 left base
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 left ticks
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 left vectoring
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 right base
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 right ticks
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 1 right vectoring
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 left base
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 left ticks
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 left vectoring
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right base
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right ticks
+Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right vectoring
+Runways:UKWW GAVRYSHIVKA 13-31:name
+Stars:UKBB 18 RNAV:
+VORs:BRP:frequency
+VORs:BRP:name
+VORs:BRP:symbol
+VORs:KVH:frequency
+VORs:KVH:name
+VORs:KVH:symbol
+VORs:SLV:frequency
+VORs:SLV:name
+VORs:SLV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:49.991249:29.859330:50.763001:32.071730
