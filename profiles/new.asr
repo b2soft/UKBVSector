@@ -9,186 +9,96 @@ ARTCC low boundary:AFIS UKKE:
 ARTCC low boundary:CTR UKBB:
 ARTCC low boundary:CTR UKKK:
 ARTCC low boundary:CTR UKKM:
-ARTCC low boundary:TMA Kyiv TC-3+TC-4 (JOINT):
 ARTCC low boundary:TMA Kyiv TC-5:
-Fixes:ABROK:name
-Fixes:ABROK:symbol
-Fixes:AKULO:name
-Fixes:AKULO:symbol
+ARTCC low boundary:TMA_Kyiv_TC-3+TC-4:
 Fixes:AMKAB:name
 Fixes:AMKAB:symbol
-Fixes:ARPOD:name
-Fixes:ARPOD:symbol
-Fixes:ATREK:name
-Fixes:ATREK:symbol
-Fixes:BABLA:name
-Fixes:BABLA:symbol
-Fixes:BABSU:name
-Fixes:BABSU:symbol
-Fixes:BAKOK:name
-Fixes:BAKOK:symbol
-Fixes:BAREN:name
-Fixes:BAREN:symbol
-Fixes:BASOR:name
-Fixes:BASOR:symbol
-Fixes:BEMBI:name
-Fixes:BEMBI:symbol
-Fixes:BOGMA:name
-Fixes:BOGMA:symbol
-Fixes:BUDUK:name
-Fixes:BUDUK:symbol
-Fixes:DEKAD:name
-Fixes:DEKAD:symbol
-Fixes:DEMER:name
-Fixes:DEMER:symbol
-Fixes:DORER:name
-Fixes:DORER:symbol
-Fixes:EDIMI:name
-Fixes:EDIMI:symbol
-Fixes:ELNIK:name
-Fixes:ELNIK:symbol
-Fixes:ETOKA:name
-Fixes:ETOKA:symbol
-Fixes:GAMLA:name
-Fixes:GAMLA:symbol
-Fixes:GEPTO:name
-Fixes:GEPTO:symbol
-Fixes:GOBLI:name
-Fixes:GOBLI:symbol
-Fixes:GODOD:name
-Fixes:GODOD:symbol
-Fixes:GOLKU:name
-Fixes:GOLKU:symbol
-Fixes:GOROS:name
-Fixes:GOROS:symbol
+Fixes:ASVEN:name
+Fixes:ASVEN:symbol
+Fixes:BB630:name
+Fixes:BB630:symbol
+Fixes:BB632:name
+Fixes:BB632:symbol
+Fixes:BB634:name
+Fixes:BB634:symbol
+Fixes:BB636:name
+Fixes:BB636:symbol
+Fixes:BB638:name
+Fixes:BB638:symbol
+Fixes:BB640:name
+Fixes:BB640:symbol
+Fixes:BB642:name
+Fixes:BB642:symbol
+Fixes:BB644:name
+Fixes:BB644:symbol
+Fixes:BB646:name
+Fixes:BB646:symbol
+Fixes:BB648:name
+Fixes:BB648:symbol
+Fixes:BB650:name
+Fixes:BB650:symbol
+Fixes:BB652:name
+Fixes:BB652:symbol
+Fixes:BB654:name
+Fixes:BB654:symbol
+Fixes:BB656:name
+Fixes:BB656:symbol
+Fixes:BB658:name
+Fixes:BB658:symbol
+Fixes:BB660:name
+Fixes:BB660:symbol
+Fixes:BB662:name
+Fixes:BB662:symbol
+Fixes:BB664:name
+Fixes:BB664:symbol
+Fixes:BB665:name
+Fixes:BB665:symbol
+Fixes:BB668:name
+Fixes:BB668:symbol
+Fixes:BB670:name
+Fixes:BB670:symbol
+Fixes:BB672:name
+Fixes:BB672:symbol
+Fixes:BB674:name
+Fixes:BB674:symbol
+Fixes:BBN01:name
+Fixes:BBN01:symbol
+Fixes:BBW01:name
+Fixes:BBW01:symbol
 Fixes:GOTAP:name
 Fixes:GOTAP:symbol
-Fixes:IRBOL:name
-Fixes:IRBOL:symbol
-Fixes:KEDUB:name
-Fixes:KEDUB:symbol
-Fixes:KIBER:name
-Fixes:KIBER:symbol
-Fixes:KNIAZHYCHI:name
-Fixes:KNIAZHYCHI:symbol
-Fixes:KOKUM:name
-Fixes:KOKUM:symbol
+Fixes:INVAD:name
+Fixes:INVAD:symbol
 Fixes:KONIP:name
 Fixes:KONIP:symbol
-Fixes:KOROP:name
-Fixes:KOROP:symbol
-Fixes:KOSNA:name
-Fixes:KOSNA:symbol
-Fixes:KUROS:name
-Fixes:KUROS:symbol
 Fixes:KUVAL:name
 Fixes:KUVAL:symbol
-Fixes:LABOD:name
-Fixes:LABOD:symbol
-Fixes:LAMEX:name
-Fixes:LAMEX:symbol
-Fixes:LAPVA:name
-Fixes:LAPVA:symbol
-Fixes:LASDA:name
-Fixes:LASDA:symbol
-Fixes:LAVDA:name
-Fixes:LAVDA:symbol
-Fixes:LIDNO:name
-Fixes:LIDNO:symbol
-Fixes:LINDU:name
-Fixes:LINDU:symbol
-Fixes:LOKSO:name
-Fixes:LOKSO:symbol
-Fixes:LORDU:name
-Fixes:LORDU:symbol
-Fixes:LOVIK:name
-Fixes:LOVIK:symbol
-Fixes:LUKOL:name
-Fixes:LUKOL:symbol
-Fixes:LULAP:name
-Fixes:LULAP:symbol
-Fixes:LUTIK:name
-Fixes:LUTIK:symbol
-Fixes:MIMKO:name
-Fixes:MIMKO:symbol
 Fixes:NANIR:name
 Fixes:NANIR:symbol
 Fixes:NEMIP:name
 Fixes:NEMIP:symbol
-Fixes:NEVRU:name
-Fixes:NEVRU:symbol
-Fixes:NIKIG:name
-Fixes:NIKIG:symbol
-Fixes:NIROV:name
-Fixes:NIROV:symbol
-Fixes:NOLDU:name
-Fixes:NOLDU:symbol
-Fixes:OKROT:name
-Fixes:OKROT:symbol
-Fixes:OLKOM:name
-Fixes:OLKOM:symbol
-Fixes:OTKUS:name
-Fixes:OTKUS:symbol
-Fixes:OTPAK:name
-Fixes:OTPAK:symbol
-Fixes:PEKIT:name
-Fixes:PEKIT:symbol
-Fixes:PIMEN:name
-Fixes:PIMEN:symbol
-Fixes:PISOK:name
-Fixes:PISOK:symbol
-Fixes:POBUV:name
-Fixes:POBUV:symbol
-Fixes:PROTSIV:name
-Fixes:PROTSIV:symbol
-Fixes:RABEN:name
-Fixes:RABEN:symbol
-Fixes:RANOM:name
-Fixes:RANOM:symbol
-Fixes:REPLI:name
-Fixes:REPLI:symbol
-Fixes:RIXOS:name
-Fixes:RIXOS:symbol
-Fixes:RONIT:name
-Fixes:RONIT:symbol
-Fixes:ROSUD:name
-Fixes:ROSUD:symbol
-Fixes:RUBOS:name
-Fixes:RUBOS:symbol
-Fixes:SITBA:name
-Fixes:SITBA:symbol
-Fixes:SOPIM:name
-Fixes:SOPIM:symbol
-Fixes:SORIK:name
-Fixes:SORIK:symbol
-Fixes:SORON:name
-Fixes:SORON:symbol
-Fixes:SOVOK:name
-Fixes:SOVOK:symbol
 Fixes:SULUM:name
 Fixes:SULUM:symbol
-Fixes:TABAV:name
-Fixes:TABAV:symbol
-Fixes:TAKET:name
-Fixes:TAKET:symbol
-Fixes:TALOB:name
-Fixes:TALOB:symbol
-Fixes:TEPLO:name
-Fixes:TEPLO:symbol
-Fixes:TIMOS:name
-Fixes:TIMOS:symbol
-Fixes:TIRAS:name
-Fixes:TIRAS:symbol
 Fixes:TUVOG:name
 Fixes:TUVOG:symbol
-Fixes:UMOGA:name
-Fixes:UMOGA:symbol
-Fixes:VASON:name
-Fixes:VASON:symbol
 Fixes:VEBIX:name
 Fixes:VEBIX:symbol
-Fixes:VESEL:name
-Fixes:VESEL:symbol
+Geo:UKBB 18L-36R:
+Geo:UKBB 18R-36L:
+Geo:UKBB 36L APPR:
+Geo:UKBB 36R APPR:
+NDBs:BO:frequency
+NDBs:BO:name
+NDBs:BO:symbol
+NDBs:CY:frequency
+NDBs:CY:name
+NDBs:CY:symbol
+NDBs:KR:frequency
+NDBs:KR:name
+NDBs:KR:symbol
+NDBs:PI:frequency
+NDBs:PI:name
+NDBs:PI:symbol
 Runways:UKBB BORYSPIL 18L-36R:centerline
 Runways:UKBB BORYSPIL 18L-36R:extended centerline 1
 Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 left base
@@ -197,13 +107,6 @@ Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 left vectoring
 Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right base
 Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right ticks
 Runways:UKBB BORYSPIL 18L-36R:extended centerline 1 right vectoring
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left base
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left ticks
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 left vectoring
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right base
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right ticks
-Runways:UKBB BORYSPIL 18L-36R:extended centerline 2 right vectoring
 Runways:UKBB BORYSPIL 18L-36R:name
 Runways:UKBB BORYSPIL 18R-36L:centerline
 Runways:UKBB BORYSPIL 18R-36L:extended centerline 1
@@ -301,15 +204,15 @@ Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right base
 Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right ticks
 Runways:UKWW GAVRYSHIVKA 13-31:extended centerline 2 right vectoring
 Runways:UKWW GAVRYSHIVKA 13-31:name
-Sids:UKBB 18L BASIC:
-VORs:BRP:frequency
+Stars:UKBB 36 RNAV:
 VORs:BRP:name
 VORs:BRP:symbol
-VORs:SLV:frequency
 VORs:SLV:name
 VORs:SLV:symbol
+VORs:VIN:name
+VORs:VIN:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -320,4 +223,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)-copy
-WINDOWAREA:49.303434:28.364444:51.187595:33.765812
+WINDOWAREA:49.881523:29.499872:50.846084:32.265004
