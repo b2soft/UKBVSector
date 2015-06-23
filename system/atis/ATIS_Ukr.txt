@@ -1,0 +1,287 @@
+RECORD:-:minus.wav
+RECORD:%:percents.wav
+RECORD:,:desimal.wav
+RECORD:/:slash.wav
+RECORD:+:plus.wav
+RECORD:0:0.wav
+RECORD:000:000.wav
+RECORD:1:1.wav
+RECORD:10:10.wav
+RECORD:10 to 25 percent:10_25.wav
+RECORD:11:11.wav
+RECORD:12:12.wav
+RECORD:13:13.wav
+RECORD:18L:18L.wav
+RECORD:18R:18R.wav
+RECORD:2:2.wav
+RECORD:25 to 50 percent:25_50.wav
+RECORD:2NDB:2NDB.wav
+RECORD:3:3.wav
+RECORD:36L:36L.wav
+RECORD:36R:36R.wav
+RECORD:4:4.wav
+RECORD:5:5.wav
+RECORD:50:50.wav
+RECORD:6:6.wav
+RECORD:7:7.wav
+RECORD:8:8.wav
+RECORD:9:9.wav
+RECORD:A:A.wav
+RECORD:AC:altocumulus.wav
+RECORD:Advise information:advise.wav
+RECORD:Advise you have information:advise_info.wav
+RECORD:after:after.wav
+RECORD:all runways:all_rwys.wav
+RECORD:altitude:alt.wav
+RECORD:and:and.wav
+RECORD:approach:approach.wav
+RECORD:arrival runway:arr_rwy.wav
+RECORD:at:at.wav
+RECORD:ATIS:atis.wav
+RECORD:ATIS information:atis_info.wav
+RECORD:ATIS_Lviv:atis_lviv.wav
+RECORD:Attention! Birds activity on final:birds.wav
+RECORD:B:B.wav
+RECORD:becoming:becoming.wav
+RECORD:below 10 percent:below_10.wav
+RECORD:between:between.wav
+RECORD:BKN:broken.wav
+RECORD:blowing dust:BLDU.wav
+RECORD:blowing snow:BLSN.wav
+RECORD:breaking action:breaking.wav
+RECORD:breaking coefficient:breaking.wav
+RECORD:broken:broken.wav
+RECORD:by:by.wav
+RECORD:C:C.wav
+RECORD:calm:calm.wav
+RECORD:CAVOK:CAVOK.wav
+RECORD:CB:cumolenimbus.wav
+RECORD:CI:cirrus.wav
+RECORD:clean:clean.wav
+RECORD:cleared of deposits:clrd_depos.wav
+RECORD:closed:closed.wav
+RECORD:closed due clearence in progress:clos_progres.wav
+RECORD:closed due maintenance:clsd_maint.wav
+RECORD:clouds:clouds.wav
+RECORD:CLR:cleared.wav
+RECORD:cm:cm.wav
+RECORD:compacted snow:compacted.wav
+RECORD:covered by:covered.wav
+RECORD:covered by compacted snow:comp_snow.wav
+RECORD:covered by dry snow:dry_snow.wav
+RECORD:covered by ice:cov_ice.wav
+RECORD:covered by rime or frost:rime_frost.wav
+RECORD:covered by rough ice:rough_ice.wav
+RECORD:covered by slush:slush.wav
+RECORD:covered by wet snow:wet_snow.wav
+RECORD:D:D.wav
+RECORD:damp:damp.wav
+RECORD:degrees:degrees.wav
+RECORD:Departure frequency:dep_freq.wav
+RECORD:departure runway:dep_rwy.wav
+RECORD:dew point:dew.wav
+RECORD:Dnipropetrovsk:Dnipropetrovsk.wav
+RECORD:downward tendency:downward.wav
+RECORD:drizzle:drizle.wav
+RECORD:dry:dry.wav
+RECORD:dry and clear:dry_clean.wav
+RECORD:dust whirls:dust_whirles.wav
+RECORD:duststorm:duststorm.wav
+RECORD:E:E.wav
+RECORD:east:east.wav
+RECORD:expect:expect.wav
+RECORD:F:F.wav
+RECORD:feet:feet.wav
+RECORD:few:few.wav
+RECORD:fog:fog.wav
+RECORD:freezing:freezing.wav
+RECORD:frezzing:frezzing.wav
+RECORD:friction coefficient:frict_coef.wav
+RECORD:funnel_cloud:funnel_cloud.wav
+RECORD:G:G.wav
+RECORD:good:good.wav
+RECORD:gusting:gusting.wav
+RECORD:H:H.wav
+RECORD:hail:hail.wav
+RECORD:hail showers:hail_show.wav
+RECORD:haze:haze.wav
+RECORD:heavy:heavy.wav
+RECORD:holding pattern:holding.wav
+RECORD:hPa:hPa.wav
+RECORD:hundred:00.wav
+RECORD:I:I.wav
+RECORD:ice:ice.wav
+RECORD:ice crystals:ice_cryst.wav
+RECORD:ice pellets:ice_pel.wav
+RECORD:ILS:ILS.wav
+RECORD:ILS Approach:ILS_ap.wav
+RECORD:in vicinity:vicinity.wav
+RECORD:J:J.wav
+RECORD:K:K.wav
+RECORD:Kharkiv Osnova:Kharkiv.wav
+RECORD:Kiev Boryspil:Boryspil1.wav
+RECORD:Kiev Boyspil International:Boryspil'.wav
+RECORD:Kiev Zhuliany:Zhuliany.wav
+RECORD:km:km.wav
+RECORD:knots:knots.wav
+RECORD:Kyiv Boryspil ATIS Information:atis_Boryspil.wav
+RECORD:L:L.wav
+RECORD:left:left.wav
+RECORD:less than:less_than.wav
+RECORD:light:light.wav
+RECORD:low:low.wav
+RECORD:low drifting dust:BRDU.wav
+RECORD:low drifting snow:DRSN.wav
+RECORD:low visibility procedurs are inforced:lowvis.wav
+RECORD:L'viv:Lviv1.wav
+RECORD:L'viv International:Lviv.wav
+RECORD:Lviv Intrenational ATIS Information:atis_Lviv.wav
+RECORD:M:M.wav
+RECORD:maintwy:maintwy.wav
+RECORD:maximum:max.wav
+RECORD:medium:medium.wav
+RECORD:medium to good:med_good.wav
+RECORD:medium to poor:med_poor.wav
+RECORD:meters:meters.wav
+RECORD:mist:mist.wav
+RECORD:mm:mm.wav
+RECORD:moderate:moderate.wav
+RECORD:more:more.wav
+RECORD:more than:more_than.wav
+RECORD:more than 10 km:9999.wav
+RECORD:more than 50 percent:more_50.wav
+RECORD:mps:mps.wav
+RECORD:N:N.wav
+RECORD:no clouds detected:no_clouds_det.wav
+RECORD:no distinct tendency:no_tendency.wav
+RECORD:no significant clouds:NSC.wav
+RECORD:no significant weather :no_sign_weath.wav
+RECORD:north:north.wav
+RECORD:north-east:north-east.wav
+RECORD:north-west:north-west.wav
+RECORD:NOSIG:nosig.wav
+RECORD:O:O.wav
+RECORD:observation at:observation.wav
+RECORD:Odessa:Odessa1.wav
+RECORD:Odessa ATIS Information:atis_Odessa.wav
+RECORD:Odessa International:Odessa.wav
+RECORD:on first contact:onfirst.wav
+RECORD:or:or.wav
+RECORD:OVC:overcoast.wav
+RECORD:overcoast:overcoast.wav
+RECORD:P:P.wav
+RECORD:partial fog:PRFG.wav
+RECORD:patches of fog:patch_fog.wav
+RECORD:poor:poor.wav
+RECORD:Present weather:pres_weath.wav
+RECORD:previous surface conditions:prev_surf.wav
+RECORD:Q:Q.wav
+RECORD:QFE:QFE.wav
+RECORD:QNH:QNH.wav
+RECORD:R:R.wav
+RECORD:rain:rain.wav
+RECORD:rain shower:rainshow.wav
+RECORD:recent:recent.wav
+RECORD:right:right.wav
+RECORD:Runway:rwy.wav
+RECORD:Runway in use:Rwy_in_use.wav
+RECORD:Runway surface conditions:Rwy_surf.wav
+RECORD:RVR:RVR.wav
+RECORD:RVR values available on air traffic control frequency:RVR_ATCfreq.wav
+RECORD:rwy:rwy.wav
+RECORD:S:S.wav
+RECORD:SC:stratocumulus.wav
+RECORD:scattered:sct.wav
+RECORD:shallow fog:MIFG.wav
+RECORD:shower:shower.wav
+RECORD:Simferopol':Simf.wav
+RECORD:sky clear:sky_cl.wav
+RECORD:slush:slush.wav
+RECORD:small hail showers:sm_hail_show.wav
+RECORD:smoke:smoke.wav
+RECORD:snow:snow.wav
+RECORD:snow grains:sn_gr.wav
+RECORD:snow showers:SHSN.wav
+RECORD:south:south.wav
+RECORD:south-east:south-east.wav
+RECORD:south-west:south-west.wav
+RECORD:squalls:squalls.wav
+RECORD:ST:stratus.wav
+RECORD:Surveillance radar:surv_radar.wav
+RECORD:T:T.wav
+RECORD:Taxiway:txwy.wav
+RECORD:TCU:tower_cumulus.wav
+RECORD:Temperature:temp.wav
+RECORD:TEMPO:tempo.wav
+RECORD:The aerodrome is closed due to contamination of the runways:aerodrome_closed.wav
+RECORD:thousand:000.wav
+RECORD:thunderstorm:thunderstorm.wav
+RECORD:thunderstorm with hail:TSGR.wav
+RECORD:thunderstorm with ice pellets:TSPL.wav
+RECORD:thunderstorm with rain:TSRN.wav
+RECORD:thunderstorm with small hail:TSGS.wav
+RECORD:thunderstorm with snow:TSSN.wav
+RECORD:TL:TL.wav
+RECORD:to:to.wav
+RECORD:to a depth of:to_depth.wav
+RECORD:to the:to_the.wav
+RECORD:TREND:trend.wav
+RECORD:twy:twy.wav
+RECORD:U:U.wav
+RECORD:unavalible:unavalible.wav
+RECORD:unknown precipitation:unkn_prec.wav
+RECORD:unmeasurable:unmeas.wav
+RECORD:upward tendency:upward.wav
+RECORD:V:V.wav
+RECORD:variable:variable.wav
+RECORD:Vertical visibility:vv.wav
+RECORD:Visibility:vis.wav
+RECORD:Visual:visual.wav
+RECORD:W:W.wav
+RECORD:west:west.wav
+RECORD:wet:wet.wav
+RECORD:widespread dust:wsdust.wav
+RECORD:wind:wind.wav
+RECORD:windshear:windshear.wav
+RECORD:X:X.wav
+RECORD:Y:Y.wav
+RECORD:Z:Z.wav
+RECORD:Zaporizhja:Zaporizhja.wav
+ITEM:Kiev Boryspil:XXX
+ITEM:ATIS information:XXX
+ITEM:E:
+ITEM:1800:
+ITEM:Z:XXX
+ITEM:ILS:XXX
+ITEM:approach:XXX
+ITEM:Runway in use:XXX
+ITEM:36R:
+ITEM:Runway surface conditions:XXX
+ITEM:cleared of deposits:XXX
+ITEM:breaking action:XXX
+ITEM:good:XXX
+ITEM:TL:XXX
+ITEM:120:
+ITEM:Present weather:XXX
+ITEM:wind:XXX
+ITEM:020:
+ITEM:degrees:XXX
+ITEM:7:
+ITEM:mps:XXX
+ITEM:visibility:XXX
+ITEM:more than 10 km:XXX
+ITEM:Clouds:XXX
+ITEM:overcoast:XXX
+ITEM:{2200}:
+ITEM:feet:XXX
+ITEM:Temperature:XXX
+ITEM:19:
+ITEM:dew point:XXX
+ITEM:15:
+ITEM:QNH:XXX
+ITEM:1010:
+ITEM:hPa:XXX
+ITEM:NOSIG:XXX
+ITEM:Advise you have information:XXX
+ITEM:E:
+ITEM:on first contact:XXX

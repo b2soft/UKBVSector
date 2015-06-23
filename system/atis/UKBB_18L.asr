@@ -1,0 +1,1263 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Eurocope\UKBV_NEW\Kiev pack\Kiev pack\Euroscope sectors\Ukraine_399b.sct
+SECTORTITLE:Ukraine_399b.sct
+Airports:LUKK:name
+Airports:LUKK:symbol
+Airports:UKBB:name
+Airports:UKBB:symbol
+Airports:UKBM:name
+Airports:UKBM:symbol
+Airports:UKCC:name
+Airports:UKCC:symbol
+Airports:UKCK:name
+Airports:UKCK:symbol
+Airports:UKCM:name
+Airports:UKCM:symbol
+Airports:UKCS:name
+Airports:UKCS:symbol
+Airports:UKCW:name
+Airports:UKCW:symbol
+Airports:UKDB:name
+Airports:UKDB:symbol
+Airports:UKDD:name
+Airports:UKDD:symbol
+Airports:UKDE:name
+Airports:UKDE:symbol
+Airports:UKDR:name
+Airports:UKDR:symbol
+Airports:UKFB:name
+Airports:UKFB:symbol
+Airports:UKFF:name
+Airports:UKFF:symbol
+Airports:UKFG:name
+Airports:UKFG:symbol
+Airports:UKFK:name
+Airports:UKFK:symbol
+Airports:UKFW:name
+Airports:UKFW:symbol
+Airports:UKFY:name
+Airports:UKFY:symbol
+Airports:UKHD:name
+Airports:UKHD:symbol
+Airports:UKHH:name
+Airports:UKHH:symbol
+Airports:UKHK:name
+Airports:UKHK:symbol
+Airports:UKHP:name
+Airports:UKHP:symbol
+Airports:UKHS:name
+Airports:UKHS:symbol
+Airports:UKHW:name
+Airports:UKHW:symbol
+Airports:UKKE:name
+Airports:UKKE:symbol
+Airports:UKKG:name
+Airports:UKKG:symbol
+Airports:UKKJ:name
+Airports:UKKJ:symbol
+Airports:UKKK:name
+Airports:UKKK:symbol
+Airports:UKKM:name
+Airports:UKKM:symbol
+Airports:UKKT:name
+Airports:UKKT:symbol
+Airports:UKKW:name
+Airports:UKKW:symbol
+Airports:UKLF:name
+Airports:UKLF:symbol
+Airports:UKLH:name
+Airports:UKLH:symbol
+Airports:UKLI:name
+Airports:UKLI:symbol
+Airports:UKLK:name
+Airports:UKLK:symbol
+Airports:UKLL:name
+Airports:UKLL:symbol
+Airports:UKLN:name
+Airports:UKLN:symbol
+Airports:UKLR:name
+Airports:UKLR:symbol
+Airports:UKLT:name
+Airports:UKLT:symbol
+Airports:UKLU:name
+Airports:UKLU:symbol
+Airports:UKOH:name
+Airports:UKOH:symbol
+Airports:UKOI:name
+Airports:UKOI:symbol
+Airports:UKON:name
+Airports:UKON:symbol
+Airports:UKOO:name
+Airports:UKOO:symbol
+Airports:UKOR:name
+Airports:UKOR:symbol
+Airports:UKWW:name
+Airports:UKWW:symbol
+Airports:URKK:name
+Airports:URKK:symbol
+Airports:URRR:name
+Airports:URRR:symbol
+ARTCC boundary:UKBV:
+ARTCC boundary:UKDV:
+ARTCC boundary:UKFV:
+ARTCC boundary:UKLV:
+ARTCC boundary:UKOV:
+ARTCC high boundary:DNIPRO EAST_WEST:
+ARTCC high boundary:DNIPROPETROVS'K_CTA:
+ARTCC high boundary:DONETSK_CTA:
+ARTCC high boundary:KHARKIV_CTA:
+ARTCC high boundary:UK-T727-03:
+ARTCC high boundary:UK-T727-04:
+ARTCC high boundary:UK-T727-05:
+ARTCC high boundary:UK-T727-06:
+ARTCC high boundary:UKBV CTA E/W:
+ARTCC high boundary:UKFV_CTA:
+ARTCC low boundary:CTR UKBB:
+ARTCC low boundary:CTR UKKK:
+ARTCC low boundary:CTR UKKM:
+ARTCC low boundary:TMA_TC-1-2:
+ARTCC low boundary:TMA_TC-1/2 Boundary:
+ARTCC low boundary:TMA_TC-3-4:
+ARTCC low boundary:TMA_TC-5:
+ARTCC low boundary:UK-T317-01:
+ARTCC low boundary:UK-T712-01:
+ARTCC low boundary:UK-T723-01:
+ARTCC low boundary:UK-T723-02:
+ARTCC low boundary:UK-T723-03:
+ARTCC low boundary:UK-T723-04:
+ARTCC low boundary:UK-T727-01:
+ARTCC low boundary:UK-T727-02:
+ARTCC low boundary:UK-T727-07:
+ARTCC low boundary:UK-T727-08:
+ARTCC low boundary:UK-T739-01:
+ARTCC low boundary:UK-T739-02:
+ARTCC low boundary:UK-T739-03:
+ARTCC low boundary:UK-T739-04:
+ARTCC low boundary:UK-T739-05:
+ARTCC low boundary:UK-T739-06:
+ARTCC low boundary:UKBM_CTR:
+ARTCC low boundary:UKBM_TMA:
+ARTCC low boundary:UKCC_APP:
+ARTCC low boundary:UKCC_TWR:
+ARTCC low boundary:UKDD_2_APP:
+ARTCC low boundary:UKDD_APP:
+ARTCC low boundary:UKDD_TWR:
+ARTCC low boundary:UKDE_APP:
+ARTCC low boundary:UKDE_TWR:
+ARTCC low boundary:UKDR_APP:
+ARTCC low boundary:UKDR_CTR:
+ARTCC low boundary:UKFF_1_TMA:
+ARTCC low boundary:UKFF_2_TMA:
+ARTCC low boundary:UKFF_CTR:
+ARTCC low boundary:UKHH_APP:
+ARTCC low boundary:UKHH_TWR:
+ARTCC low boundary:UKHW_CTR:
+ARTCC low boundary:UKKG_CTR:
+ARTCC low boundary:UKKG_TMA:
+ARTCC low boundary:UKLI_CTR:
+ARTCC low boundary:UKLI_TMA:
+ARTCC low boundary:UKLL_CTR:
+ARTCC low boundary:UKLL_TMA:
+ARTCC low boundary:UKLN_CTR:
+ARTCC low boundary:UKLN_TMA:
+ARTCC low boundary:UKLR_CTR:
+ARTCC low boundary:UKLR_TMA:
+ARTCC low boundary:UKLT_CTR:
+ARTCC low boundary:UKLU_TMA:
+ARTCC low boundary:UKOI_CTR:
+ARTCC low boundary:UKOM_CTR:
+ARTCC low boundary:UKON_CTR:
+ARTCC low boundary:UKON_TMA:
+ARTCC low boundary:UKOO_CTR:
+ARTCC low boundary:UKOO_TMA:
+ARTCC low boundary:UKOR_CTR:
+Fixes:BB401:name
+Fixes:BB401:symbol
+Fixes:BB402:name
+Fixes:BB402:symbol
+Fixes:BB403:name
+Fixes:BB403:symbol
+Fixes:BB404:name
+Fixes:BB404:symbol
+Fixes:BB407:name
+Fixes:BB407:symbol
+Fixes:BB408:name
+Fixes:BB408:symbol
+Fixes:BB410:name
+Fixes:BB410:symbol
+Fixes:BB412:name
+Fixes:BB412:symbol
+Fixes:BB413:name
+Fixes:BB413:symbol
+Fixes:BB417:name
+Fixes:BB417:symbol
+Fixes:BB419:name
+Fixes:BB419:symbol
+Fixes:BB421:name
+Fixes:BB421:symbol
+NDBs:A(CM):frequency
+NDBs:A(CM):name
+NDBs:A(CM):symbol
+NDBs:A(DE):frequency
+NDBs:A(DE):name
+NDBs:A(DE):symbol
+NDBs:AU:frequency
+NDBs:AU:name
+NDBs:AU:symbol
+NDBs:B:frequency
+NDBs:B:name
+NDBs:B:symbol
+NDBs:BB:frequency
+NDBs:BB:name
+NDBs:BB:symbol
+NDBs:BI:frequency
+NDBs:BI:name
+NDBs:BI:symbol
+NDBs:BO:frequency
+NDBs:BO:name
+NDBs:BO:symbol
+NDBs:C(KE):frequency
+NDBs:C(KE):name
+NDBs:C(KE):symbol
+NDBs:C(KM):frequency
+NDBs:C(KM):name
+NDBs:C(KM):symbol
+NDBs:C(LH):frequency
+NDBs:C(LH):name
+NDBs:C(LH):symbol
+NDBs:CC:frequency
+NDBs:CC:name
+NDBs:CC:symbol
+NDBs:CH:frequency
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:CK:frequency
+NDBs:CK:name
+NDBs:CK:symbol
+NDBs:CN:frequency
+NDBs:CN:name
+NDBs:CN:symbol
+NDBs:CR:frequency
+NDBs:CR:name
+NDBs:CR:symbol
+NDBs:CY:frequency
+NDBs:CY:name
+NDBs:CY:symbol
+NDBs:D(LR):frequency
+NDBs:D(LR):name
+NDBs:D(LR):symbol
+NDBs:D(OO):frequency
+NDBs:D(OO):name
+NDBs:D(OO):symbol
+NDBs:DM:frequency
+NDBs:DM:name
+NDBs:DM:symbol
+NDBs:DN(CC):frequency
+NDBs:DN(CC):name
+NDBs:DN(CC):symbol
+NDBs:DO(CC):frequency
+NDBs:DO(CC):name
+NDBs:DO(CC):symbol
+NDBs:DP:frequency
+NDBs:DP:name
+NDBs:DP:symbol
+NDBs:DR:frequency
+NDBs:DR:name
+NDBs:DR:symbol
+NDBs:DW:frequency
+NDBs:DW:name
+NDBs:DW:symbol
+NDBs:E(BB):frequency
+NDBs:E(BB):name
+NDBs:E(BB):symbol
+NDBs:E(LT):frequency
+NDBs:E(LT):name
+NDBs:E(LT):symbol
+NDBs:E(OH):frequency
+NDBs:E(OH):name
+NDBs:E(OH):symbol
+NDBs:E(OO):frequency
+NDBs:E(OO):name
+NDBs:E(OO):symbol
+NDBs:F(FF):frequency
+NDBs:F(FF):name
+NDBs:F(FF):symbol
+NDBs:F(LI):frequency
+NDBs:F(LI):name
+NDBs:F(LI):symbol
+NDBs:GE:frequency
+NDBs:GE:name
+NDBs:GE:symbol
+NDBs:GO:frequency
+NDBs:GO:name
+NDBs:GO:symbol
+NDBs:GR:frequency
+NDBs:GR:name
+NDBs:GR:symbol
+NDBs:HC:frequency
+NDBs:HC:name
+NDBs:HC:symbol
+NDBs:HE:frequency
+NDBs:HE:name
+NDBs:HE:symbol
+NDBs:HM:frequency
+NDBs:HM:name
+NDBs:HM:symbol
+NDBs:HS:frequency
+NDBs:HS:name
+NDBs:HS:symbol
+NDBs:I(BB):frequency
+NDBs:I(BB):name
+NDBs:I(BB):symbol
+NDBs:I(ON):frequency
+NDBs:I(ON):name
+NDBs:I(ON):symbol
+NDBs:IF:frequency
+NDBs:IF:name
+NDBs:IF:symbol
+NDBs:IL:frequency
+NDBs:IL:name
+NDBs:IL:symbol
+NDBs:IV:frequency
+NDBs:IV:name
+NDBs:IV:symbol
+NDBs:JA:frequency
+NDBs:JA:name
+NDBs:JA:symbol
+NDBs:K(KE):frequency
+NDBs:K(KE):name
+NDBs:K(KE):symbol
+NDBs:K(ON):frequency
+NDBs:K(ON):name
+NDBs:K(ON):symbol
+NDBs:KB:frequency
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KD:frequency
+NDBs:KD:name
+NDBs:KD:symbol
+NDBs:KDo:frequency
+NDBs:KDo:name
+NDBs:KDo:symbol
+NDBs:KE:frequency
+NDBs:KE:name
+NDBs:KE:symbol
+NDBs:KH:frequency
+NDBs:KH:name
+NDBs:KH:symbol
+NDBs:KO:frequency
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KR:frequency
+NDBs:KR:name
+NDBs:KR:symbol
+NDBs:KR(OR):frequency
+NDBs:KR(OR):name
+NDBs:KR(OR):symbol
+NDBs:KW:frequency
+NDBs:KW:name
+NDBs:KW:symbol
+NDBs:L:frequency
+NDBs:L:name
+NDBs:L:symbol
+NDBs:LC:frequency
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LE:frequency
+NDBs:LE:name
+NDBs:LE:symbol
+NDBs:LI:frequency
+NDBs:LI:name
+NDBs:LI:symbol
+NDBs:LKK:frequency
+NDBs:LKK:name
+NDBs:LKK:symbol
+NDBs:LKM:frequency
+NDBs:LKM:name
+NDBs:LKM:symbol
+NDBs:LKP:frequency
+NDBs:LKP:name
+NDBs:LKP:symbol
+NDBs:LKS:frequency
+NDBs:LKS:name
+NDBs:LKS:symbol
+NDBs:LO:frequency
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:LS:frequency
+NDBs:LS:name
+NDBs:LS:symbol
+NDBs:LV:frequency
+NDBs:LV:name
+NDBs:LV:symbol
+NDBs:M:frequency
+NDBs:M:name
+NDBs:M:symbol
+NDBs:MA:frequency
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MR:frequency
+NDBs:MR:name
+NDBs:MR:symbol
+NDBs:N(CC):frequency
+NDBs:N(CC):name
+NDBs:N(CC):symbol
+NDBs:N(FF):frequency
+NDBs:N(FF):name
+NDBs:N(FF):symbol
+NDBs:N(HW):frequency
+NDBs:N(HW):name
+NDBs:N(HW):symbol
+NDBs:N(LC):frequency
+NDBs:N(LC):name
+NDBs:N(LC):symbol
+NDBs:N(LT):frequency
+NDBs:N(LT):name
+NDBs:N(LT):symbol
+NDBs:NK:frequency
+NDBs:NK:name
+NDBs:NK:symbol
+NDBs:NL:frequency
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:NM:frequency
+NDBs:NM:name
+NDBs:NM:symbol
+NDBs:NO:frequency
+NDBs:NO:name
+NDBs:NO:symbol
+NDBs:NS(HW):frequency
+NDBs:NS(HW):name
+NDBs:NS(HW):symbol
+NDBs:O(BB):frequency
+NDBs:O(BB):name
+NDBs:O(BB):symbol
+NDBs:O(CC):frequency
+NDBs:O(CC):name
+NDBs:O(CC):symbol
+NDBs:O(KM):frequency
+NDBs:O(KM):name
+NDBs:O(KM):symbol
+NDBs:O(LL):frequency
+NDBs:O(LL):name
+NDBs:O(LL):symbol
+NDBs:OD:frequency
+NDBs:OD:name
+NDBs:OD:symbol
+NDBs:OE:frequency
+NDBs:OE:name
+NDBs:OE:symbol
+NDBs:OT:frequency
+NDBs:OT:name
+NDBs:OT:symbol
+NDBs:P(CM):frequency
+NDBs:P(CM):name
+NDBs:P(CM):symbol
+NDBs:P(DD):frequency
+NDBs:P(DD):name
+NDBs:P(DD):symbol
+NDBs:P(DE):frequency
+NDBs:P(DE):name
+NDBs:P(DE):symbol
+NDBs:PA:frequency
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PI:frequency
+NDBs:PI:name
+NDBs:PI:symbol
+NDBs:PW:frequency
+NDBs:PW:name
+NDBs:PW:symbol
+NDBs:R(DD):frequency
+NDBs:R(DD):name
+NDBs:R(DD):symbol
+NDBs:R(LC):frequency
+NDBs:R(LC):name
+NDBs:R(LC):symbol
+NDBs:R(MM):frequency
+NDBs:R(MM):name
+NDBs:R(MM):symbol
+NDBs:RD:frequency
+NDBs:RD:name
+NDBs:RD:symbol
+NDBs:RS:frequency
+NDBs:RS:name
+NDBs:RS:symbol
+NDBs:RW:frequency
+NDBs:RW:name
+NDBs:RW:symbol
+NDBs:S:frequency
+NDBs:S:name
+NDBs:S:symbol
+NDBs:SF:frequency
+NDBs:SF:name
+NDBs:SF:symbol
+NDBs:SH:frequency
+NDBs:SH:name
+NDBs:SH:symbol
+NDBs:SL:frequency
+NDBs:SL:name
+NDBs:SL:symbol
+NDBs:SM:frequency
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SN:frequency
+NDBs:SN:name
+NDBs:SN:symbol
+NDBs:SR:frequency
+NDBs:SR:name
+NDBs:SR:symbol
+NDBs:SV:frequency
+NDBs:SV:name
+NDBs:SV:symbol
+NDBs:SW:frequency
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:T(MM):frequency
+NDBs:T(MM):name
+NDBs:T(MM):symbol
+NDBs:TE:frequency
+NDBs:TE:name
+NDBs:TE:symbol
+NDBs:TM:frequency
+NDBs:TM:name
+NDBs:TM:symbol
+NDBs:TN:frequency
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TP:frequency
+NDBs:TP:name
+NDBs:TP:symbol
+NDBs:TR:frequency
+NDBs:TR:name
+NDBs:TR:symbol
+NDBs:U(HW):frequency
+NDBs:U(HW):name
+NDBs:U(HW):symbol
+NDBs:UH(HW):frequency
+NDBs:UH(HW):name
+NDBs:UH(HW):symbol
+NDBs:UO:frequency
+NDBs:UO:name
+NDBs:UO:symbol
+NDBs:V(LI):frequency
+NDBs:V(LI):name
+NDBs:V(LI):symbol
+NDBs:V(LL):frequency
+NDBs:V(LL):name
+NDBs:V(LL):symbol
+NDBs:VI:frequency
+NDBs:VI:name
+NDBs:VI:symbol
+NDBs:W(LR):frequency
+NDBs:W(LR):name
+NDBs:W(LR):symbol
+NDBs:ZA:frequency
+NDBs:ZA:name
+NDBs:ZA:symbol
+NDBs:ZK:frequency
+NDBs:ZK:name
+NDBs:ZK:symbol
+NDBs:ZL:frequency
+NDBs:ZL:name
+NDBs:ZL:symbol
+NDBs:ZP:frequency
+NDBs:ZP:name
+NDBs:ZP:symbol
+Runways:UKBB Boryspil 18L-36R:centerline
+Runways:UKBB Boryspil 18L-36R:extended centerline 1
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left base
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right base
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 2
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left base
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right base
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right vectoring
+Runways:UKBB Boryspil 18L-36R:name
+Runways:UKBB Boryspil 18R-36L:centerline
+Runways:UKBB Boryspil 18R-36L:extended centerline 1
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left base
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right base
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 2
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left base
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right base
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right vectoring
+Runways:UKBB Boryspil 18R-36L:name
+Runways:UKBM Миргород 04-22:centerline
+Runways:UKBM Миргород 04-22:extended centerline 1
+Runways:UKBM Миргород 04-22:extended centerline 1 left base
+Runways:UKBM Миргород 04-22:extended centerline 1 left ticks
+Runways:UKBM Миргород 04-22:extended centerline 1 left vectoring
+Runways:UKBM Миргород 04-22:extended centerline 1 right base
+Runways:UKBM Миргород 04-22:extended centerline 1 right ticks
+Runways:UKBM Миргород 04-22:extended centerline 1 right vectoring
+Runways:UKBM Миргород 04-22:extended centerline 2
+Runways:UKBM Миргород 04-22:extended centerline 2 left base
+Runways:UKBM Миргород 04-22:extended centerline 2 left ticks
+Runways:UKBM Миргород 04-22:extended centerline 2 left vectoring
+Runways:UKBM Миргород 04-22:extended centerline 2 right base
+Runways:UKBM Миргород 04-22:extended centerline 2 right ticks
+Runways:UKBM Миргород 04-22:extended centerline 2 right vectoring
+Runways:UKBM Миргород 04-22:name
+Runways:UKCC Donetsk 08-26:centerline
+Runways:UKCC Donetsk 08-26:extended centerline 1
+Runways:UKCC Donetsk 08-26:extended centerline 1 left base
+Runways:UKCC Donetsk 08-26:extended centerline 1 left ticks
+Runways:UKCC Donetsk 08-26:extended centerline 1 left vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 1 right base
+Runways:UKCC Donetsk 08-26:extended centerline 1 right ticks
+Runways:UKCC Donetsk 08-26:extended centerline 1 right vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 2
+Runways:UKCC Donetsk 08-26:extended centerline 2 left base
+Runways:UKCC Donetsk 08-26:extended centerline 2 left ticks
+Runways:UKCC Donetsk 08-26:extended centerline 2 left vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 2 right base
+Runways:UKCC Donetsk 08-26:extended centerline 2 right ticks
+Runways:UKCC Donetsk 08-26:extended centerline 2 right vectoring
+Runways:UKCC Donetsk 08-26:name
+Runways:UKCC OLD 08-26:centerline
+Runways:UKCC OLD 08-26:extended centerline 1
+Runways:UKCC OLD 08-26:extended centerline 1 left base
+Runways:UKCC OLD 08-26:extended centerline 1 left ticks
+Runways:UKCC OLD 08-26:extended centerline 1 left vectoring
+Runways:UKCC OLD 08-26:extended centerline 1 right base
+Runways:UKCC OLD 08-26:extended centerline 1 right ticks
+Runways:UKCC OLD 08-26:extended centerline 1 right vectoring
+Runways:UKCC OLD 08-26:extended centerline 2
+Runways:UKCC OLD 08-26:extended centerline 2 left base
+Runways:UKCC OLD 08-26:extended centerline 2 left ticks
+Runways:UKCC OLD 08-26:extended centerline 2 left vectoring
+Runways:UKCC OLD 08-26:extended centerline 2 right base
+Runways:UKCC OLD 08-26:extended centerline 2 right ticks
+Runways:UKCC OLD 08-26:extended centerline 2 right vectoring
+Runways:UKCC OLD 08-26:name
+Runways:UKCK Kramatorsk 09-27:centerline
+Runways:UKCK Kramatorsk 09-27:extended centerline 1
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left base
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right base
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 2
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left base
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right base
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right vectoring
+Runways:UKCK Kramatorsk 09-27:name
+Runways:UKCM Mariupol' 02-20:centerline
+Runways:UKCM Mariupol' 02-20:extended centerline 1
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left base
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right base
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 2
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left base
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right base
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right vectoring
+Runways:UKCM Mariupol' 02-20:name
+Runways:UKCW Luhansk 09-27:centerline
+Runways:UKCW Luhansk 09-27:extended centerline 1
+Runways:UKCW Luhansk 09-27:extended centerline 1 left base
+Runways:UKCW Luhansk 09-27:extended centerline 1 left ticks
+Runways:UKCW Luhansk 09-27:extended centerline 1 left vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 1 right base
+Runways:UKCW Luhansk 09-27:extended centerline 1 right ticks
+Runways:UKCW Luhansk 09-27:extended centerline 1 right vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 2
+Runways:UKCW Luhansk 09-27:extended centerline 2 left base
+Runways:UKCW Luhansk 09-27:extended centerline 2 left ticks
+Runways:UKCW Luhansk 09-27:extended centerline 2 left vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 2 right base
+Runways:UKCW Luhansk 09-27:extended centerline 2 right ticks
+Runways:UKCW Luhansk 09-27:extended centerline 2 right vectoring
+Runways:UKCW Luhansk 09-27:name
+Runways:UKDD 08-26:centerline
+Runways:UKDD 08-26:extended centerline 1
+Runways:UKDD 08-26:extended centerline 1 left base
+Runways:UKDD 08-26:extended centerline 1 left ticks
+Runways:UKDD 08-26:extended centerline 1 left vectoring
+Runways:UKDD 08-26:extended centerline 1 right base
+Runways:UKDD 08-26:extended centerline 1 right ticks
+Runways:UKDD 08-26:extended centerline 1 right vectoring
+Runways:UKDD 08-26:extended centerline 2
+Runways:UKDD 08-26:extended centerline 2 left base
+Runways:UKDD 08-26:extended centerline 2 left ticks
+Runways:UKDD 08-26:extended centerline 2 left vectoring
+Runways:UKDD 08-26:extended centerline 2 right base
+Runways:UKDD 08-26:extended centerline 2 right ticks
+Runways:UKDD 08-26:extended centerline 2 right vectoring
+Runways:UKDD 08-26:name
+Runways:UKDE Zaporizhja Mokraja 02-20:centerline
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:name
+Runways:UKDE Zaporizhja Mokraja 02L-20R:centerline
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:name
+Runways:UKDR Kryvyj Rih 36-18:centerline
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 left base
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 left ticks
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 left vectoring
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 right base
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 right ticks
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 1 right vectoring
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 left base
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 left ticks
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 left vectoring
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 right base
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 right ticks
+Runways:UKDR Kryvyj Rih 36-18:extended centerline 2 right vectoring
+Runways:UKDR Kryvyj Rih 36-18:name
+Runways:UKFB Sevastopol' Bel'bek 07-25:centerline
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:name
+Runways:UKFF Simferopol' 01-19:centerline
+Runways:UKFF Simferopol' 01-19:extended centerline 1
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left base
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right base
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 2
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left base
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right base
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right vectoring
+Runways:UKFF Simferopol' 01-19:name
+Runways:UKFG Gvardeyskoe 01-19:centerline
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right vectoring
+Runways:UKFG Gvardeyskoe 01-19:name
+Runways:UKFK Kerch 07-25:centerline
+Runways:UKFK Kerch 07-25:extended centerline 1
+Runways:UKFK Kerch 07-25:extended centerline 1 left base
+Runways:UKFK Kerch 07-25:extended centerline 1 left ticks
+Runways:UKFK Kerch 07-25:extended centerline 1 left vectoring
+Runways:UKFK Kerch 07-25:extended centerline 1 right base
+Runways:UKFK Kerch 07-25:extended centerline 1 right ticks
+Runways:UKFK Kerch 07-25:extended centerline 1 right vectoring
+Runways:UKFK Kerch 07-25:extended centerline 2
+Runways:UKFK Kerch 07-25:extended centerline 2 left base
+Runways:UKFK Kerch 07-25:extended centerline 2 left ticks
+Runways:UKFK Kerch 07-25:extended centerline 2 left vectoring
+Runways:UKFK Kerch 07-25:extended centerline 2 right base
+Runways:UKFK Kerch 07-25:extended centerline 2 right ticks
+Runways:UKFK Kerch 07-25:extended centerline 2 right vectoring
+Runways:UKFK Kerch 07-25:name
+Runways:UKFW Simferopol' Zavodskoe 02-20:centerline
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:name
+Runways:UKHH Osnova 25-07:centerline
+Runways:UKHH Osnova 25-07:extended centerline 1
+Runways:UKHH Osnova 25-07:extended centerline 1 left base
+Runways:UKHH Osnova 25-07:extended centerline 1 left ticks
+Runways:UKHH Osnova 25-07:extended centerline 1 left vectoring
+Runways:UKHH Osnova 25-07:extended centerline 1 right base
+Runways:UKHH Osnova 25-07:extended centerline 1 right ticks
+Runways:UKHH Osnova 25-07:extended centerline 1 right vectoring
+Runways:UKHH Osnova 25-07:extended centerline 2
+Runways:UKHH Osnova 25-07:extended centerline 2 left base
+Runways:UKHH Osnova 25-07:extended centerline 2 left ticks
+Runways:UKHH Osnova 25-07:extended centerline 2 left vectoring
+Runways:UKHH Osnova 25-07:extended centerline 2 right base
+Runways:UKHH Osnova 25-07:extended centerline 2 right ticks
+Runways:UKHH Osnova 25-07:extended centerline 2 right vectoring
+Runways:UKHH Osnova 25-07:name
+Runways:UKHW Rogach 35-17:centerline
+Runways:UKHW Rogach 35-17:extended centerline 1
+Runways:UKHW Rogach 35-17:extended centerline 1 left base
+Runways:UKHW Rogach 35-17:extended centerline 1 left ticks
+Runways:UKHW Rogach 35-17:extended centerline 1 left vectoring
+Runways:UKHW Rogach 35-17:extended centerline 1 right base
+Runways:UKHW Rogach 35-17:extended centerline 1 right ticks
+Runways:UKHW Rogach 35-17:extended centerline 1 right vectoring
+Runways:UKHW Rogach 35-17:extended centerline 2
+Runways:UKHW Rogach 35-17:extended centerline 2 left base
+Runways:UKHW Rogach 35-17:extended centerline 2 left ticks
+Runways:UKHW Rogach 35-17:extended centerline 2 left vectoring
+Runways:UKHW Rogach 35-17:extended centerline 2 right base
+Runways:UKHW Rogach 35-17:extended centerline 2 right ticks
+Runways:UKHW Rogach 35-17:extended centerline 2 right vectoring
+Runways:UKHW Rogach 35-17:name
+Runways:UKHY Dzankoy 05-23:centerline
+Runways:UKHY Dzankoy 05-23:extended centerline 1
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left base
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right base
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 2
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left base
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right base
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right vectoring
+Runways:UKHY Dzankoy 05-23:name
+Runways:UKKE Cherkasy 15-33:centerline
+Runways:UKKE Cherkasy 15-33:extended centerline 1
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left base
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right base
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 2
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left base
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right base
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right vectoring
+Runways:UKKE Cherkasy 15-33:name
+Runways:UKKG Kirovograd 16-34:centerline
+Runways:UKKG Kirovograd 16-34:extended centerline 1
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left base
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right base
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 2
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left base
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right base
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right vectoring
+Runways:UKKG Kirovograd 16-34:name
+Runways:UKKK Zhuliany 26-08:centerline
+Runways:UKKK Zhuliany 26-08:extended centerline 1
+Runways:UKKK Zhuliany 26-08:extended centerline 1 left base
+Runways:UKKK Zhuliany 26-08:extended centerline 1 left ticks
+Runways:UKKK Zhuliany 26-08:extended centerline 1 left vectoring
+Runways:UKKK Zhuliany 26-08:extended centerline 1 right base
+Runways:UKKK Zhuliany 26-08:extended centerline 1 right ticks
+Runways:UKKK Zhuliany 26-08:extended centerline 1 right vectoring
+Runways:UKKK Zhuliany 26-08:extended centerline 2
+Runways:UKKK Zhuliany 26-08:extended centerline 2 left base
+Runways:UKKK Zhuliany 26-08:extended centerline 2 left ticks
+Runways:UKKK Zhuliany 26-08:extended centerline 2 left vectoring
+Runways:UKKK Zhuliany 26-08:extended centerline 2 right base
+Runways:UKKK Zhuliany 26-08:extended centerline 2 right ticks
+Runways:UKKK Zhuliany 26-08:extended centerline 2 right vectoring
+Runways:UKKK Zhuliany 26-08:name
+Runways:UKKM Antonov 15-33:centerline
+Runways:UKKM Antonov 15-33:extended centerline 1
+Runways:UKKM Antonov 15-33:extended centerline 1 left base
+Runways:UKKM Antonov 15-33:extended centerline 1 left ticks
+Runways:UKKM Antonov 15-33:extended centerline 1 left vectoring
+Runways:UKKM Antonov 15-33:extended centerline 1 right base
+Runways:UKKM Antonov 15-33:extended centerline 1 right ticks
+Runways:UKKM Antonov 15-33:extended centerline 1 right vectoring
+Runways:UKKM Antonov 15-33:extended centerline 2
+Runways:UKKM Antonov 15-33:extended centerline 2 left base
+Runways:UKKM Antonov 15-33:extended centerline 2 left ticks
+Runways:UKKM Antonov 15-33:extended centerline 2 left vectoring
+Runways:UKKM Antonov 15-33:extended centerline 2 right base
+Runways:UKKM Antonov 15-33:extended centerline 2 right ticks
+Runways:UKKM Antonov 15-33:extended centerline 2 right vectoring
+Runways:UKKM Antonov 15-33:name
+Runways:UKKT Aviant 14-32:centerline
+Runways:UKKT Aviant 14-32:extended centerline 1
+Runways:UKKT Aviant 14-32:extended centerline 1 left base
+Runways:UKKT Aviant 14-32:extended centerline 1 left ticks
+Runways:UKKT Aviant 14-32:extended centerline 1 left vectoring
+Runways:UKKT Aviant 14-32:extended centerline 1 right base
+Runways:UKKT Aviant 14-32:extended centerline 1 right ticks
+Runways:UKKT Aviant 14-32:extended centerline 1 right vectoring
+Runways:UKKT Aviant 14-32:extended centerline 2
+Runways:UKKT Aviant 14-32:extended centerline 2 left base
+Runways:UKKT Aviant 14-32:extended centerline 2 left ticks
+Runways:UKKT Aviant 14-32:extended centerline 2 left vectoring
+Runways:UKKT Aviant 14-32:extended centerline 2 right base
+Runways:UKKT Aviant 14-32:extended centerline 2 right ticks
+Runways:UKKT Aviant 14-32:extended centerline 2 right vectoring
+Runways:UKKT Aviant 14-32:name
+Runways:UKKW Vasylkiv 13-31:centerline
+Runways:UKKW Vasylkiv 13-31:extended centerline 1
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left base
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right base
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 2
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left base
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right base
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right vectoring
+Runways:UKKW Vasylkiv 13-31:name
+Runways:UKLH Khmelnytskyi 16-34:centerline
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right vectoring
+Runways:UKLH Khmelnytskyi 16-34:name
+Runways:UKLI Ivano-frankivsk 10-28:centerline
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right vectoring
+Runways:UKLI Ivano-frankivsk 10-28:name
+Runways:UKLK Lutsk 12-30:centerline
+Runways:UKLK Lutsk 12-30:extended centerline 1
+Runways:UKLK Lutsk 12-30:extended centerline 1 left base
+Runways:UKLK Lutsk 12-30:extended centerline 1 left ticks
+Runways:UKLK Lutsk 12-30:extended centerline 1 left vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 1 right base
+Runways:UKLK Lutsk 12-30:extended centerline 1 right ticks
+Runways:UKLK Lutsk 12-30:extended centerline 1 right vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 2
+Runways:UKLK Lutsk 12-30:extended centerline 2 left base
+Runways:UKLK Lutsk 12-30:extended centerline 2 left ticks
+Runways:UKLK Lutsk 12-30:extended centerline 2 left vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 2 right base
+Runways:UKLK Lutsk 12-30:extended centerline 2 right ticks
+Runways:UKLK Lutsk 12-30:extended centerline 2 right vectoring
+Runways:UKLK Lutsk 12-30:name
+Runways:UKLL Lviv 13-31:centerline
+Runways:UKLL Lviv 13-31:extended centerline 1
+Runways:UKLL Lviv 13-31:extended centerline 1 left base
+Runways:UKLL Lviv 13-31:extended centerline 1 left ticks
+Runways:UKLL Lviv 13-31:extended centerline 1 left vectoring
+Runways:UKLL Lviv 13-31:extended centerline 1 right base
+Runways:UKLL Lviv 13-31:extended centerline 1 right ticks
+Runways:UKLL Lviv 13-31:extended centerline 1 right vectoring
+Runways:UKLL Lviv 13-31:extended centerline 2
+Runways:UKLL Lviv 13-31:extended centerline 2 left base
+Runways:UKLL Lviv 13-31:extended centerline 2 left ticks
+Runways:UKLL Lviv 13-31:extended centerline 2 left vectoring
+Runways:UKLL Lviv 13-31:extended centerline 2 right base
+Runways:UKLL Lviv 13-31:extended centerline 2 right ticks
+Runways:UKLL Lviv 13-31:extended centerline 2 right vectoring
+Runways:UKLL Lviv 13-31:name
+Runways:UKLN Chernivtsi 15-33:centerline
+Runways:UKLN Chernivtsi 15-33:extended centerline 1
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left base
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right base
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 2
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left base
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right base
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right vectoring
+Runways:UKLN Chernivtsi 15-33:name
+Runways:UKLR Rivne 12-30:centerline
+Runways:UKLR Rivne 12-30:extended centerline 1
+Runways:UKLR Rivne 12-30:extended centerline 1 left base
+Runways:UKLR Rivne 12-30:extended centerline 1 left ticks
+Runways:UKLR Rivne 12-30:extended centerline 1 left vectoring
+Runways:UKLR Rivne 12-30:extended centerline 1 right base
+Runways:UKLR Rivne 12-30:extended centerline 1 right ticks
+Runways:UKLR Rivne 12-30:extended centerline 1 right vectoring
+Runways:UKLR Rivne 12-30:extended centerline 2
+Runways:UKLR Rivne 12-30:extended centerline 2 left base
+Runways:UKLR Rivne 12-30:extended centerline 2 left ticks
+Runways:UKLR Rivne 12-30:extended centerline 2 left vectoring
+Runways:UKLR Rivne 12-30:extended centerline 2 right base
+Runways:UKLR Rivne 12-30:extended centerline 2 right ticks
+Runways:UKLR Rivne 12-30:extended centerline 2 right vectoring
+Runways:UKLR Rivne 12-30:name
+Runways:UKLT Ternopil 10-28:centerline
+Runways:UKLT Ternopil 10-28:extended centerline 1
+Runways:UKLT Ternopil 10-28:extended centerline 1 left base
+Runways:UKLT Ternopil 10-28:extended centerline 1 left ticks
+Runways:UKLT Ternopil 10-28:extended centerline 1 left vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 1 right base
+Runways:UKLT Ternopil 10-28:extended centerline 1 right ticks
+Runways:UKLT Ternopil 10-28:extended centerline 1 right vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 2
+Runways:UKLT Ternopil 10-28:extended centerline 2 left base
+Runways:UKLT Ternopil 10-28:extended centerline 2 left ticks
+Runways:UKLT Ternopil 10-28:extended centerline 2 left vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 2 right base
+Runways:UKLT Ternopil 10-28:extended centerline 2 right ticks
+Runways:UKLT Ternopil 10-28:extended centerline 2 right vectoring
+Runways:UKLT Ternopil 10-28:name
+Runways:UKLU Uzhhorod 28-10:centerline
+Runways:UKLU Uzhhorod 28-10:extended centerline 1
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left base
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right base
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 2
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left base
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right base
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right vectoring
+Runways:UKLU Uzhhorod 28-10:name
+Runways:UKOH Kherson 03-21:centerline
+Runways:UKOH Kherson 03-21:extended centerline 1
+Runways:UKOH Kherson 03-21:extended centerline 1 left base
+Runways:UKOH Kherson 03-21:extended centerline 1 left ticks
+Runways:UKOH Kherson 03-21:extended centerline 1 left vectoring
+Runways:UKOH Kherson 03-21:extended centerline 1 right base
+Runways:UKOH Kherson 03-21:extended centerline 1 right ticks
+Runways:UKOH Kherson 03-21:extended centerline 1 right vectoring
+Runways:UKOH Kherson 03-21:extended centerline 2
+Runways:UKOH Kherson 03-21:extended centerline 2 left base
+Runways:UKOH Kherson 03-21:extended centerline 2 left ticks
+Runways:UKOH Kherson 03-21:extended centerline 2 left vectoring
+Runways:UKOH Kherson 03-21:extended centerline 2 right base
+Runways:UKOH Kherson 03-21:extended centerline 2 right ticks
+Runways:UKOH Kherson 03-21:extended centerline 2 right vectoring
+Runways:UKOH Kherson 03-21:name
+Runways:UKOI Izmail 20-02:centerline
+Runways:UKOI Izmail 20-02:extended centerline 1
+Runways:UKOI Izmail 20-02:extended centerline 1 left base
+Runways:UKOI Izmail 20-02:extended centerline 1 left ticks
+Runways:UKOI Izmail 20-02:extended centerline 1 left vectoring
+Runways:UKOI Izmail 20-02:extended centerline 1 right base
+Runways:UKOI Izmail 20-02:extended centerline 1 right ticks
+Runways:UKOI Izmail 20-02:extended centerline 1 right vectoring
+Runways:UKOI Izmail 20-02:extended centerline 2
+Runways:UKOI Izmail 20-02:extended centerline 2 left base
+Runways:UKOI Izmail 20-02:extended centerline 2 left ticks
+Runways:UKOI Izmail 20-02:extended centerline 2 left vectoring
+Runways:UKOI Izmail 20-02:extended centerline 2 right base
+Runways:UKOI Izmail 20-02:extended centerline 2 right ticks
+Runways:UKOI Izmail 20-02:extended centerline 2 right vectoring
+Runways:UKOI Izmail 20-02:name
+Runways:UKON Mykolaiv 05-23:centerline
+Runways:UKON Mykolaiv 05-23:extended centerline 1
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left base
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right base
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 2
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left base
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right base
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right vectoring
+Runways:UKON Mykolaiv 05-23:name
+Runways:UKOO Odessa 34-16:centerline
+Runways:UKOO Odessa 34-16:extended centerline 1
+Runways:UKOO Odessa 34-16:extended centerline 1 left base
+Runways:UKOO Odessa 34-16:extended centerline 1 left ticks
+Runways:UKOO Odessa 34-16:extended centerline 1 left vectoring
+Runways:UKOO Odessa 34-16:extended centerline 1 right base
+Runways:UKOO Odessa 34-16:extended centerline 1 right ticks
+Runways:UKOO Odessa 34-16:extended centerline 1 right vectoring
+Runways:UKOO Odessa 34-16:extended centerline 2
+Runways:UKOO Odessa 34-16:extended centerline 2 left base
+Runways:UKOO Odessa 34-16:extended centerline 2 left ticks
+Runways:UKOO Odessa 34-16:extended centerline 2 left vectoring
+Runways:UKOO Odessa 34-16:extended centerline 2 right base
+Runways:UKOO Odessa 34-16:extended centerline 2 right ticks
+Runways:UKOO Odessa 34-16:extended centerline 2 right vectoring
+Runways:UKOO Odessa 34-16:name
+Runways:UKOR Kulbakino 05-23:centerline
+Runways:UKOR Kulbakino 05-23:extended centerline 1
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left base
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right base
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 2
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left base
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right base
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right vectoring
+Runways:UKOR Kulbakino 05-23:name
+Stars:UKBB 18 RNAV:
+VORs:23K:frequency
+VORs:23K:name
+VORs:23K:symbol
+VORs:38k:frequency
+VORs:38k:name
+VORs:38k:symbol
+VORs:BAH:frequency
+VORs:BAH:name
+VORs:BAH:symbol
+VORs:BRP:frequency
+VORs:BRP:name
+VORs:BRP:symbol
+VORs:DNP:frequency
+VORs:DNP:name
+VORs:DNP:symbol
+VORs:DON:frequency
+VORs:DON:name
+VORs:DON:symbol
+VORs:IVF:frequency
+VORs:IVF:name
+VORs:IVF:symbol
+VORs:KER:frequency
+VORs:KER:name
+VORs:KER:symbol
+VORs:KHR:frequency
+VORs:KHR:name
+VORs:KHR:symbol
+VORs:KSN:frequency
+VORs:KSN:name
+VORs:KSN:symbol
+VORs:KVR:frequency
+VORs:KVR:name
+VORs:KVR:symbol
+VORs:LIV:frequency
+VORs:LIV:name
+VORs:LIV:symbol
+VORs:MRP:frequency
+VORs:MRP:name
+VORs:MRP:symbol
+VORs:ODS:frequency
+VORs:ODS:name
+VORs:ODS:symbol
+VORs:SLV:frequency
+VORs:SLV:name
+VORs:SLV:symbol
+VORs:SMF:frequency
+VORs:SMF:name
+VORs:SMF:symbol
+VORs:STB:frequency
+VORs:STB:name
+VORs:STB:symbol
+VORs:VIN:frequency
+VORs:VIN:name
+VORs:VIN:symbol
+VORs:YHT:frequency
+VORs:YHT:name
+VORs:YHT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:49.702833:28.249572:51.176614:33.521180

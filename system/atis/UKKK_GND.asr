@@ -1,0 +1,2348 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Euroscope\Sector\Ukraine_399b.sct
+SECTORTITLE:Ukraine_399b.sct
+Airports:LUKK:name
+Airports:LUKK:symbol
+Airports:UKBB:name
+Airports:UKBB:symbol
+Airports:UKBM:name
+Airports:UKBM:symbol
+Airports:UKCC:name
+Airports:UKCC:symbol
+Airports:UKCK:name
+Airports:UKCK:symbol
+Airports:UKCM:name
+Airports:UKCM:symbol
+Airports:UKCS:name
+Airports:UKCS:symbol
+Airports:UKCW:name
+Airports:UKCW:symbol
+Airports:UKDB:name
+Airports:UKDB:symbol
+Airports:UKDD:name
+Airports:UKDD:symbol
+Airports:UKDE:name
+Airports:UKDE:symbol
+Airports:UKDR:name
+Airports:UKDR:symbol
+Airports:UKFB:name
+Airports:UKFB:symbol
+Airports:UKFF:name
+Airports:UKFF:symbol
+Airports:UKFG:name
+Airports:UKFG:symbol
+Airports:UKFK:name
+Airports:UKFK:symbol
+Airports:UKFW:name
+Airports:UKFW:symbol
+Airports:UKFY:name
+Airports:UKFY:symbol
+Airports:UKHD:name
+Airports:UKHD:symbol
+Airports:UKHH:name
+Airports:UKHH:symbol
+Airports:UKHK:name
+Airports:UKHK:symbol
+Airports:UKHP:name
+Airports:UKHP:symbol
+Airports:UKHS:name
+Airports:UKHS:symbol
+Airports:UKHW:name
+Airports:UKHW:symbol
+Airports:UKKE:name
+Airports:UKKE:symbol
+Airports:UKKG:name
+Airports:UKKG:symbol
+Airports:UKKJ:name
+Airports:UKKJ:symbol
+Airports:UKKK:name
+Airports:UKKK:symbol
+Airports:UKKM:name
+Airports:UKKM:symbol
+Airports:UKKT:name
+Airports:UKKT:symbol
+Airports:UKKW:name
+Airports:UKKW:symbol
+Airports:UKLF:name
+Airports:UKLF:symbol
+Airports:UKLH:name
+Airports:UKLH:symbol
+Airports:UKLI:name
+Airports:UKLI:symbol
+Airports:UKLK:name
+Airports:UKLK:symbol
+Airports:UKLL:name
+Airports:UKLL:symbol
+Airports:UKLN:name
+Airports:UKLN:symbol
+Airports:UKLR:name
+Airports:UKLR:symbol
+Airports:UKLT:name
+Airports:UKLT:symbol
+Airports:UKLU:name
+Airports:UKLU:symbol
+Airports:UKOH:name
+Airports:UKOH:symbol
+Airports:UKOI:name
+Airports:UKOI:symbol
+Airports:UKON:name
+Airports:UKON:symbol
+Airports:UKOO:name
+Airports:UKOO:symbol
+Airports:UKOR:name
+Airports:UKOR:symbol
+Airports:UKWW:name
+Airports:UKWW:symbol
+Airports:URKK:name
+Airports:URKK:symbol
+Airports:URRR:name
+Airports:URRR:symbol
+Free Text:UK-T317\UK-T317-01  FL260//600:freetext
+Free Text:UK-T712\UK-T712-01  1500//GND:freetext
+Free Text:UK-T723\UK-T723-01  FL200//GND:freetext
+Free Text:UK-T723\UK-T723-02  FL260//600:freetext
+Free Text:UK-T723\UK-T723-03  FL260//900:freetext
+Free Text:UK-T723\UK-T723-04  FL260//600:freetext
+Free Text:UK-T727\UK-T727-01  FL160//GND:freetext
+Free Text:UK-T727\UK-T727-02  2750//GND:freetext
+Free Text:UK-T727\UK-T727-03  FL510//GND:freetext
+Free Text:UK-T727\UK-T727-04  FL510//600:freetext
+Free Text:UK-T727\UK-T727-05  FL510//600:freetext
+Free Text:UK-T727\UK-T727-06  FL510//GND:freetext
+Free Text:UK-T727\UK-T727-07  FL150//GND:freetext
+Free Text:UK-T727\UK-T727-08  FL150//600:freetext
+Free Text:UK-T739\UK-T739-01  FL170//GND:freetext
+Free Text:UK-T739\UK-T739-02  FL170//600:freetext
+Free Text:UK-T739\UK-T739-03  FL170//GND:freetext
+Free Text:UK-T739\UK-T739-04  FL170//600:freetext
+Free Text:UK-T739\UK-T739-05  FL170//900:freetext
+Free Text:UK-T739\UK-T739-06  FL170//900:freetext
+Free Text:UKBB Apr C\37:freetext
+Free Text:UKBB Apr C\38:freetext
+Free Text:UKBB Apr C\47:freetext
+Free Text:UKBB Apr C\48:freetext
+Free Text:UKBB Apr C\49:freetext
+Free Text:UKBB Apr C\50:freetext
+Free Text:UKBB Apr C\51:freetext
+Free Text:UKBB Apr C\52:freetext
+Free Text:UKBB Apr C\53:freetext
+Free Text:UKBB Apr C\54:freetext
+Free Text:UKBB Apr C\55:freetext
+Free Text:UKBB Apr C\56:freetext
+Free Text:UKBB Apr D\1:freetext
+Free Text:UKBB Apr D\10:freetext
+Free Text:UKBB Apr D\10L:freetext
+Free Text:UKBB Apr D\10R:freetext
+Free Text:UKBB Apr D\11:freetext
+Free Text:UKBB Apr D\11L:freetext
+Free Text:UKBB Apr D\11R:freetext
+Free Text:UKBB Apr D\12:freetext
+Free Text:UKBB Apr D\12R:freetext
+Free Text:UKBB Apr D\13:freetext
+Free Text:UKBB Apr D\14:freetext
+Free Text:UKBB Apr D\15:freetext
+Free Text:UKBB Apr D\16:freetext
+Free Text:UKBB Apr D\16R:freetext
+Free Text:UKBB Apr D\17:freetext
+Free Text:UKBB Apr D\18:freetext
+Free Text:UKBB Apr D\19:freetext
+Free Text:UKBB Apr D\19R:freetext
+Free Text:UKBB Apr D\2:freetext
+Free Text:UKBB Apr D\20:freetext
+Free Text:UKBB Apr D\2L:freetext
+Free Text:UKBB Apr D\2R:freetext
+Free Text:UKBB Apr D\3:freetext
+Free Text:UKBB Apr D\3L:freetext
+Free Text:UKBB Apr D\3R:freetext
+Free Text:UKBB Apr D\4:freetext
+Free Text:UKBB Apr D\5:freetext
+Free Text:UKBB Apr D\6:freetext
+Free Text:UKBB Apr D\7:freetext
+Free Text:UKBB Apr D\8:freetext
+Free Text:UKBB Apr D\9:freetext
+Free Text:UKBB Apr D\9L:freetext
+Free Text:UKBB Apr D\9R:freetext
+Free Text:UKBB Apr E1\1:freetext
+Free Text:UKBB Apr E1\2:freetext
+Free Text:UKBB Apr E1\3:freetext
+Free Text:UKBB Apr E1\4:freetext
+Free Text:UKBB Apr E1\5:freetext
+Free Text:UKBB Apr E1\6:freetext
+Free Text:UKBB Apr E1\7:freetext
+Free Text:UKBB Apr E1\8:freetext
+Free Text:UKBB Apr E2\1:freetext
+Free Text:UKBB Apr E2\10:freetext
+Free Text:UKBB Apr E2\11:freetext
+Free Text:UKBB Apr E2\12:freetext
+Free Text:UKBB Apr E2\13:freetext
+Free Text:UKBB Apr E2\14:freetext
+Free Text:UKBB Apr E2\15:freetext
+Free Text:UKBB Apr E2\16:freetext
+Free Text:UKBB Apr E2\17:freetext
+Free Text:UKBB Apr E2\2:freetext
+Free Text:UKBB Apr E2\3:freetext
+Free Text:UKBB Apr E2\4:freetext
+Free Text:UKBB Apr E2\5:freetext
+Free Text:UKBB Apr E2\6:freetext
+Free Text:UKBB Apr E2\7:freetext
+Free Text:UKBB Apr E2\8:freetext
+Free Text:UKBB Apr E2\9:freetext
+Free Text:UKBB Apr G1\104:freetext
+Free Text:UKBB Apr G1\105:freetext
+Free Text:UKBB Apr G1\106:freetext
+Free Text:UKBB Apr G1\107:freetext
+Free Text:UKBB Apr G1\108:freetext
+Free Text:UKBB Apr G2\100:freetext
+Free Text:UKBB Apr G2\101:freetext
+Free Text:UKBB Apr G2\102:freetext
+Free Text:UKBB Apr G2\103:freetext
+Free Text:UKBB Apr M\1:freetext
+Free Text:UKBB Apr M\10:freetext
+Free Text:UKBB Apr M\11:freetext
+Free Text:UKBB Apr M\12:freetext
+Free Text:UKBB Apr M\13:freetext
+Free Text:UKBB Apr M\14:freetext
+Free Text:UKBB Apr M\15:freetext
+Free Text:UKBB Apr M\16:freetext
+Free Text:UKBB Apr M\17:freetext
+Free Text:UKBB Apr M\18:freetext
+Free Text:UKBB Apr M\19:freetext
+Free Text:UKBB Apr M\1A:freetext
+Free Text:UKBB Apr M\2:freetext
+Free Text:UKBB Apr M\20:freetext
+Free Text:UKBB Apr M\21:freetext
+Free Text:UKBB Apr M\22:freetext
+Free Text:UKBB Apr M\23:freetext
+Free Text:UKBB Apr M\24:freetext
+Free Text:UKBB Apr M\25:freetext
+Free Text:UKBB Apr M\26:freetext
+Free Text:UKBB Apr M\27:freetext
+Free Text:UKBB Apr M\28:freetext
+Free Text:UKBB Apr M\29:freetext
+Free Text:UKBB Apr M\2A:freetext
+Free Text:UKBB Apr M\3:freetext
+Free Text:UKBB Apr M\30:freetext
+Free Text:UKBB Apr M\31:freetext
+Free Text:UKBB Apr M\4:freetext
+Free Text:UKBB Apr M\5:freetext
+Free Text:UKBB Apr M\6:freetext
+Free Text:UKBB Apr M\7:freetext
+Free Text:UKBB Apr M\8:freetext
+Free Text:UKBB Apr M\9:freetext
+Free Text:UKBB Apr S\S1:freetext
+Free Text:UKBB Apr S\S10:freetext
+Free Text:UKBB Apr S\S11:freetext
+Free Text:UKBB Apr S\S12:freetext
+Free Text:UKBB Apr S\S13:freetext
+Free Text:UKBB Apr S\S14:freetext
+Free Text:UKBB Apr S\S15:freetext
+Free Text:UKBB Apr S\S16:freetext
+Free Text:UKBB Apr S\S17:freetext
+Free Text:UKBB Apr S\S18:freetext
+Free Text:UKBB Apr S\S19:freetext
+Free Text:UKBB Apr S\S2:freetext
+Free Text:UKBB Apr S\S20:freetext
+Free Text:UKBB Apr S\S25:freetext
+Free Text:UKBB Apr S\S26:freetext
+Free Text:UKBB Apr S\S27:freetext
+Free Text:UKBB Apr S\S28:freetext
+Free Text:UKBB Apr S\S29:freetext
+Free Text:UKBB Apr S\S3:freetext
+Free Text:UKBB Apr S\S30:freetext
+Free Text:UKBB Apr S\S31:freetext
+Free Text:UKBB Apr S\S32:freetext
+Free Text:UKBB Apr S\S33:freetext
+Free Text:UKBB Apr S\S34:freetext
+Free Text:UKBB Apr S\S35:freetext
+Free Text:UKBB Apr S\S36:freetext
+Free Text:UKBB Apr S\S37:freetext
+Free Text:UKBB Apr S\S38:freetext
+Free Text:UKBB Apr S\S39:freetext
+Free Text:UKBB Apr S\S4:freetext
+Free Text:UKBB Apr S\S40:freetext
+Free Text:UKBB Apr S\S41:freetext
+Free Text:UKBB Apr S\S42:freetext
+Free Text:UKBB Apr S\S43:freetext
+Free Text:UKBB Apr S\S44:freetext
+Free Text:UKBB Apr S\S45:freetext
+Free Text:UKBB Apr S\S5:freetext
+Free Text:UKBB Apr S\S6:freetext
+Free Text:UKBB Apr S\S7:freetext
+Free Text:UKBB Apr S\S8:freetext
+Free Text:UKBB Apr S\S9:freetext
+Free Text:UKBB Aprons\Apr C:freetext
+Free Text:UKBB Aprons\Apr D:freetext
+Free Text:UKBB Aprons\Apr E1:freetext
+Free Text:UKBB Aprons\Apr E2:freetext
+Free Text:UKBB Aprons\Apr G1:freetext
+Free Text:UKBB Aprons\Apr G2:freetext
+Free Text:UKBB Aprons\Apr M:freetext
+Free Text:UKBB Aprons\Apr M:freetext
+Free Text:UKBB Aprons\Apr S:freetext
+Free Text:UKBB Aprons\Apr VIP:freetext
+Free Text:UKBB mants area\1:freetext
+Free Text:UKBB mants area\10:freetext
+Free Text:UKBB mants area\11:freetext
+Free Text:UKBB mants area\12:freetext
+Free Text:UKBB mants area\13:freetext
+Free Text:UKBB mants area\14:freetext
+Free Text:UKBB mants area\15:freetext
+Free Text:UKBB mants area\16:freetext
+Free Text:UKBB mants area\17:freetext
+Free Text:UKBB mants area\18:freetext
+Free Text:UKBB mants area\19:freetext
+Free Text:UKBB mants area\2:freetext
+Free Text:UKBB mants area\20:freetext
+Free Text:UKBB mants area\21:freetext
+Free Text:UKBB mants area\3:freetext
+Free Text:UKBB mants area\4:freetext
+Free Text:UKBB mants area\5:freetext
+Free Text:UKBB mants area\6:freetext
+Free Text:UKBB mants area\7:freetext
+Free Text:UKBB mants area\8:freetext
+Free Text:UKBB mants area\9:freetext
+Free Text:UKBB taxiways\10:freetext
+Free Text:UKBB taxiways\11:freetext
+Free Text:UKBB taxiways\12:freetext
+Free Text:UKBB taxiways\13:freetext
+Free Text:UKBB taxiways\14:freetext
+Free Text:UKBB taxiways\15:freetext
+Free Text:UKBB taxiways\16:freetext
+Free Text:UKBB taxiways\17:freetext
+Free Text:UKBB taxiways\18:freetext
+Free Text:UKBB taxiways\19:freetext
+Free Text:UKBB taxiways\9:freetext
+Free Text:UKBB taxiways\A1:freetext
+Free Text:UKBB taxiways\A2:freetext
+Free Text:UKBB taxiways\A3:freetext
+Free Text:UKBB taxiways\A4:freetext
+Free Text:UKBB taxiways\A5:freetext
+Free Text:UKBB taxiways\A6:freetext
+Free Text:UKBB taxiways\B:freetext
+Free Text:UKBB taxiways\B:freetext
+Free Text:UKBB taxiways\C:freetext
+Free Text:UKBB taxiways\C:freetext
+Free Text:UKBB taxiways\C1:freetext
+Free Text:UKBB taxiways\C2:freetext
+Free Text:UKBB taxiways\C3:freetext
+Free Text:UKBB taxiways\C4:freetext
+Free Text:UKBB taxiways\C5:freetext
+Free Text:UKBB taxiways\C6:freetext
+Free Text:UKBB taxiways\D:freetext
+Free Text:UKBB taxiways\M1:freetext
+Free Text:UKBB taxiways\M2:freetext
+Free Text:UKBB taxiways\MAIN TWY M:freetext
+Free Text:UKBB taxiways\MAIN TWY2:freetext
+Free Text:UKBB taxiways\MAIN TWY2:freetext
+Free Text:UKBB VIP\1:freetext
+Free Text:UKBB VIP\2:freetext
+Free Text:UKBM PARKINGS\1:freetext
+Free Text:UKBM PARKINGS\10:freetext
+Free Text:UKBM PARKINGS\11:freetext
+Free Text:UKBM PARKINGS\12:freetext
+Free Text:UKBM PARKINGS\13:freetext
+Free Text:UKBM PARKINGS\14:freetext
+Free Text:UKBM PARKINGS\15:freetext
+Free Text:UKBM PARKINGS\16:freetext
+Free Text:UKBM PARKINGS\2:freetext
+Free Text:UKBM PARKINGS\3:freetext
+Free Text:UKBM PARKINGS\4:freetext
+Free Text:UKBM PARKINGS\5:freetext
+Free Text:UKBM PARKINGS\6:freetext
+Free Text:UKBM PARKINGS\7:freetext
+Free Text:UKBM PARKINGS\8:freetext
+Free Text:UKBM PARKINGS\9:freetext
+Free Text:UKCC OLD PARKINGS\1:freetext
+Free Text:UKCC OLD PARKINGS\10:freetext
+Free Text:UKCC OLD PARKINGS\11:freetext
+Free Text:UKCC OLD PARKINGS\12:freetext
+Free Text:UKCC OLD PARKINGS\13:freetext
+Free Text:UKCC OLD PARKINGS\14:freetext
+Free Text:UKCC OLD PARKINGS\15:freetext
+Free Text:UKCC OLD PARKINGS\16:freetext
+Free Text:UKCC OLD PARKINGS\17:freetext
+Free Text:UKCC OLD PARKINGS\18:freetext
+Free Text:UKCC OLD PARKINGS\19:freetext
+Free Text:UKCC OLD PARKINGS\2:freetext
+Free Text:UKCC OLD PARKINGS\20:freetext
+Free Text:UKCC OLD PARKINGS\21:freetext
+Free Text:UKCC OLD PARKINGS\22:freetext
+Free Text:UKCC OLD PARKINGS\23:freetext
+Free Text:UKCC OLD PARKINGS\24:freetext
+Free Text:UKCC OLD PARKINGS\25:freetext
+Free Text:UKCC OLD PARKINGS\26:freetext
+Free Text:UKCC OLD PARKINGS\27:freetext
+Free Text:UKCC OLD PARKINGS\28:freetext
+Free Text:UKCC OLD PARKINGS\3:freetext
+Free Text:UKCC OLD PARKINGS\4:freetext
+Free Text:UKCC OLD PARKINGS\5:freetext
+Free Text:UKCC OLD PARKINGS\6:freetext
+Free Text:UKCC OLD PARKINGS\7:freetext
+Free Text:UKCC OLD PARKINGS\8:freetext
+Free Text:UKCC OLD PARKINGS\9:freetext
+Free Text:UKCC OLD TAXIWAYS\1:freetext
+Free Text:UKCC OLD TAXIWAYS\2:freetext
+Free Text:UKCC OLD TAXIWAYS\3:freetext
+Free Text:UKCC OLD TAXIWAYS\4A:freetext
+Free Text:UKCC OLD TAXIWAYS\5:freetext
+Free Text:UKCC OLD TAXIWAYS\MAIN1:freetext
+Free Text:UKCC OLD TAXIWAYS\MAIN2:freetext
+Free Text:UKCC parkings\1:freetext
+Free Text:UKCC parkings\1:freetext
+Free Text:UKCC parkings\10:freetext
+Free Text:UKCC parkings\10:freetext
+Free Text:UKCC parkings\10:freetext
+Free Text:UKCC parkings\11:freetext
+Free Text:UKCC parkings\11:freetext
+Free Text:UKCC parkings\11:freetext
+Free Text:UKCC parkings\12:freetext
+Free Text:UKCC parkings\12:freetext
+Free Text:UKCC parkings\13:freetext
+Free Text:UKCC parkings\13:freetext
+Free Text:UKCC parkings\14:freetext
+Free Text:UKCC parkings\14:freetext
+Free Text:UKCC parkings\15:freetext
+Free Text:UKCC parkings\15:freetext
+Free Text:UKCC parkings\15:freetext
+Free Text:UKCC parkings\16:freetext
+Free Text:UKCC parkings\16:freetext
+Free Text:UKCC parkings\17:freetext
+Free Text:UKCC parkings\17:freetext
+Free Text:UKCC parkings\18:freetext
+Free Text:UKCC parkings\18:freetext
+Free Text:UKCC parkings\19:freetext
+Free Text:UKCC parkings\19:freetext
+Free Text:UKCC parkings\2:freetext
+Free Text:UKCC parkings\2:freetext
+Free Text:UKCC parkings\2:freetext
+Free Text:UKCC parkings\20:freetext
+Free Text:UKCC parkings\20:freetext
+Free Text:UKCC parkings\21:freetext
+Free Text:UKCC parkings\21:freetext
+Free Text:UKCC parkings\21:freetext
+Free Text:UKCC parkings\22:freetext
+Free Text:UKCC parkings\22:freetext
+Free Text:UKCC parkings\23:freetext
+Free Text:UKCC parkings\23:freetext
+Free Text:UKCC parkings\23:freetext
+Free Text:UKCC parkings\24:freetext
+Free Text:UKCC parkings\25:freetext
+Free Text:UKCC parkings\26:freetext
+Free Text:UKCC parkings\27:freetext
+Free Text:UKCC parkings\3:freetext
+Free Text:UKCC parkings\3:freetext
+Free Text:UKCC parkings\3:freetext
+Free Text:UKCC parkings\3:freetext
+Free Text:UKCC parkings\3:freetext
+Free Text:UKCC parkings\4:freetext
+Free Text:UKCC parkings\4:freetext
+Free Text:UKCC parkings\5:freetext
+Free Text:UKCC parkings\5:freetext
+Free Text:UKCC parkings\6:freetext
+Free Text:UKCC parkings\6:freetext
+Free Text:UKCC parkings\6:freetext
+Free Text:UKCC parkings\7:freetext
+Free Text:UKCC parkings\7:freetext
+Free Text:UKCC parkings\7:freetext
+Free Text:UKCC parkings\8:freetext
+Free Text:UKCC parkings\8:freetext
+Free Text:UKCC parkings\8:freetext
+Free Text:UKCC parkings\9:freetext
+Free Text:UKCC parkings\9:freetext
+Free Text:UKCC parkings\9:freetext
+Free Text:UKCC taxiways\A1:freetext
+Free Text:UKCC taxiways\A2:freetext
+Free Text:UKCC taxiways\A3:freetext
+Free Text:UKCC taxiways\A4:freetext
+Free Text:UKCC taxiways\A5:freetext
+Free Text:UKCC taxiways\A6:freetext
+Free Text:UKCC taxiways\B:freetext
+Free Text:UKCC taxiways\B:freetext
+Free Text:UKCC taxiways\B:freetext
+Free Text:UKCC taxiways\C1:freetext
+Free Text:UKCC taxiways\C2:freetext
+Free Text:UKCC taxiways\C4:freetext
+Free Text:UKCK\1:freetext
+Free Text:UKCK\1:freetext
+Free Text:UKCK\10:freetext
+Free Text:UKCK\11:freetext
+Free Text:UKCK\12:freetext
+Free Text:UKCK\13:freetext
+Free Text:UKCK\14:freetext
+Free Text:UKCK\15:freetext
+Free Text:UKCK\16:freetext
+Free Text:UKCK\17:freetext
+Free Text:UKCK\18:freetext
+Free Text:UKCK\19:freetext
+Free Text:UKCK\2:freetext
+Free Text:UKCK\2:freetext
+Free Text:UKCK\20:freetext
+Free Text:UKCK\21:freetext
+Free Text:UKCK\22:freetext
+Free Text:UKCK\23:freetext
+Free Text:UKCK\24:freetext
+Free Text:UKCK\25:freetext
+Free Text:UKCK\26:freetext
+Free Text:UKCK\27:freetext
+Free Text:UKCK\28:freetext
+Free Text:UKCK\3:freetext
+Free Text:UKCK\3:freetext
+Free Text:UKCK\4:freetext
+Free Text:UKCK\4:freetext
+Free Text:UKCK\5:freetext
+Free Text:UKCK\6:freetext
+Free Text:UKCK\7:freetext
+Free Text:UKCK\8:freetext
+Free Text:UKCK\9:freetext
+Free Text:UKCK\M:freetext
+Free Text:UKCM\1:freetext
+Free Text:UKCM\10:freetext
+Free Text:UKCM\11:freetext
+Free Text:UKCM\12:freetext
+Free Text:UKCM\2:freetext
+Free Text:UKCM\3:freetext
+Free Text:UKCM\4:freetext
+Free Text:UKCM\5:freetext
+Free Text:UKCM\6:freetext
+Free Text:UKCM\7:freetext
+Free Text:UKCM\8:freetext
+Free Text:UKCM\9:freetext
+Free Text:UKCM\TWY 4:freetext
+Free Text:UKCW PARKINGS\1:freetext
+Free Text:UKCW PARKINGS\10:freetext
+Free Text:UKCW PARKINGS\11:freetext
+Free Text:UKCW PARKINGS\12:freetext
+Free Text:UKCW PARKINGS\13:freetext
+Free Text:UKCW PARKINGS\14:freetext
+Free Text:UKCW PARKINGS\15:freetext
+Free Text:UKCW PARKINGS\16:freetext
+Free Text:UKCW PARKINGS\17:freetext
+Free Text:UKCW PARKINGS\18:freetext
+Free Text:UKCW PARKINGS\19:freetext
+Free Text:UKCW PARKINGS\2:freetext
+Free Text:UKCW PARKINGS\20:freetext
+Free Text:UKCW PARKINGS\3:freetext
+Free Text:UKCW PARKINGS\4:freetext
+Free Text:UKCW PARKINGS\5:freetext
+Free Text:UKCW PARKINGS\6:freetext
+Free Text:UKCW PARKINGS\7:freetext
+Free Text:UKCW PARKINGS\8:freetext
+Free Text:UKCW PARKINGS\9:freetext
+Free Text:UKCW TAXIWAYS\1:freetext
+Free Text:UKCW TAXIWAYS\2:freetext
+Free Text:UKDE DEFAULT STANDS\1:freetext
+Free Text:UKDE DEFAULT STANDS\10:freetext
+Free Text:UKDE DEFAULT STANDS\11:freetext
+Free Text:UKDE DEFAULT STANDS\13:freetext
+Free Text:UKDE DEFAULT STANDS\2:freetext
+Free Text:UKDE DEFAULT STANDS\2:freetext
+Free Text:UKDE DEFAULT STANDS\3:freetext
+Free Text:UKDE DEFAULT STANDS\4:freetext
+Free Text:UKDE DEFAULT STANDS\5:freetext
+Free Text:UKDE DEFAULT STANDS\5:freetext
+Free Text:UKDE DEFAULT STANDS\6:freetext
+Free Text:UKDE DEFAULT STANDS\8:freetext
+Free Text:UKDE PARKINGS\1:freetext
+Free Text:UKDE PARKINGS\10:freetext
+Free Text:UKDE PARKINGS\11:freetext
+Free Text:UKDE PARKINGS\12:freetext
+Free Text:UKDE PARKINGS\13:freetext
+Free Text:UKDE PARKINGS\14:freetext
+Free Text:UKDE PARKINGS\15:freetext
+Free Text:UKDE PARKINGS\16:freetext
+Free Text:UKDE PARKINGS\17:freetext
+Free Text:UKDE PARKINGS\18:freetext
+Free Text:UKDE PARKINGS\19:freetext
+Free Text:UKDE PARKINGS\2:freetext
+Free Text:UKDE PARKINGS\20:freetext
+Free Text:UKDE PARKINGS\21:freetext
+Free Text:UKDE PARKINGS\22:freetext
+Free Text:UKDE PARKINGS\23:freetext
+Free Text:UKDE PARKINGS\3:freetext
+Free Text:UKDE PARKINGS\4:freetext
+Free Text:UKDE PARKINGS\47:freetext
+Free Text:UKDE PARKINGS\48:freetext
+Free Text:UKDE PARKINGS\49:freetext
+Free Text:UKDE PARKINGS\5:freetext
+Free Text:UKDE PARKINGS\50:freetext
+Free Text:UKDE PARKINGS\51:freetext
+Free Text:UKDE PARKINGS\52:freetext
+Free Text:UKDE PARKINGS\53:freetext
+Free Text:UKDE PARKINGS\54:freetext
+Free Text:UKDE PARKINGS\55:freetext
+Free Text:UKDE PARKINGS\56:freetext
+Free Text:UKDE PARKINGS\57:freetext
+Free Text:UKDE PARKINGS\58:freetext
+Free Text:UKDE PARKINGS\59:freetext
+Free Text:UKDE PARKINGS\6:freetext
+Free Text:UKDE PARKINGS\60:freetext
+Free Text:UKDE PARKINGS\61:freetext
+Free Text:UKDE PARKINGS\62:freetext
+Free Text:UKDE PARKINGS\63:freetext
+Free Text:UKDE PARKINGS\64:freetext
+Free Text:UKDE PARKINGS\65:freetext
+Free Text:UKDE PARKINGS\66:freetext
+Free Text:UKDE PARKINGS\67:freetext
+Free Text:UKDE PARKINGS\68:freetext
+Free Text:UKDE PARKINGS\69:freetext
+Free Text:UKDE PARKINGS\7:freetext
+Free Text:UKDE PARKINGS\70:freetext
+Free Text:UKDE PARKINGS\71:freetext
+Free Text:UKDE PARKINGS\72:freetext
+Free Text:UKDE PARKINGS\73:freetext
+Free Text:UKDE PARKINGS\74:freetext
+Free Text:UKDE PARKINGS\75:freetext
+Free Text:UKDE PARKINGS\76:freetext
+Free Text:UKDE PARKINGS\77:freetext
+Free Text:UKDE PARKINGS\78:freetext
+Free Text:UKDE PARKINGS\79:freetext
+Free Text:UKDE PARKINGS\8:freetext
+Free Text:UKDE PARKINGS\80:freetext
+Free Text:UKDE PARKINGS\9:freetext
+Free Text:UKDE TAXIWAYS\1:freetext
+Free Text:UKDE TAXIWAYS\4:freetext
+Free Text:UKDE TAXIWAYS\5:freetext
+Free Text:UKDR STANDS\1 :freetext
+Free Text:UKDR STANDS\10 :freetext
+Free Text:UKDR STANDS\11 :freetext
+Free Text:UKDR STANDS\12 :freetext
+Free Text:UKDR STANDS\13 :freetext
+Free Text:UKDR STANDS\14:freetext
+Free Text:UKDR STANDS\15:freetext
+Free Text:UKDR STANDS\2 :freetext
+Free Text:UKDR STANDS\3 :freetext
+Free Text:UKDR STANDS\4 :freetext
+Free Text:UKDR STANDS\5 :freetext
+Free Text:UKDR STANDS\6 :freetext
+Free Text:UKDR STANDS\6A :freetext
+Free Text:UKDR STANDS\7 :freetext
+Free Text:UKDR STANDS\7A :freetext
+Free Text:UKDR STANDS\8 :freetext
+Free Text:UKDR STANDS\9 :freetext
+Free Text:UKDR STANDS\H1 :freetext
+Free Text:UKDR STANDS\H2:freetext
+Free Text:UKFF APRON C\38:freetext
+Free Text:UKFF APRON C\39:freetext
+Free Text:UKFF APRON C\40:freetext
+Free Text:UKFF APRON C\41:freetext
+Free Text:UKFF APRON C\42:freetext
+Free Text:UKFF APRON C\APRON C :freetext
+Free Text:UKFF APRON T\12:freetext
+Free Text:UKFF APRON T\14:freetext
+Free Text:UKFF APRON T\19:freetext
+Free Text:UKFF APRON T\20:freetext
+Free Text:UKFF APRON T\21:freetext
+Free Text:UKFF APRON T\23:freetext
+Free Text:UKFF APRON T\24:freetext
+Free Text:UKFF APRON T\25:freetext
+Free Text:UKFF APRON T\26:freetext
+Free Text:UKFF APRON T\27:freetext
+Free Text:UKFF APRON T\28:freetext
+Free Text:UKFF APRON T\29:freetext
+Free Text:UKFF APRON T\30:freetext
+Free Text:UKFF APRON T\31:freetext
+Free Text:UKFF APRON T\32:freetext
+Free Text:UKFF APRON T\33:freetext
+Free Text:UKFF APRON T\34:freetext
+Free Text:UKFF APRON T\35:freetext
+Free Text:UKFF APRON T\36:freetext
+Free Text:UKFF APRON T\37:freetext
+Free Text:UKFF APRON T\5:freetext
+Free Text:UKFF APRON T\9:freetext
+Free Text:UKFF APRON T\APRON T :freetext
+Free Text:UKFF APRON T\H1:freetext
+Free Text:UKFF NEW APRON C\38:freetext
+Free Text:UKFF NEW APRON C\39:freetext
+Free Text:UKFF NEW APRON C\40:freetext
+Free Text:UKFF NEW APRON C\41:freetext
+Free Text:UKFF NEW APRON C\42:freetext
+Free Text:UKFF NEW APRON T\1:freetext
+Free Text:UKFF NEW APRON T\10:freetext
+Free Text:UKFF NEW APRON T\11:freetext
+Free Text:UKFF NEW APRON T\12:freetext
+Free Text:UKFF NEW APRON T\13:freetext
+Free Text:UKFF NEW APRON T\14:freetext
+Free Text:UKFF NEW APRON T\19:freetext
+Free Text:UKFF NEW APRON T\2:freetext
+Free Text:UKFF NEW APRON T\20:freetext
+Free Text:UKFF NEW APRON T\21:freetext
+Free Text:UKFF NEW APRON T\22:freetext
+Free Text:UKFF NEW APRON T\23:freetext
+Free Text:UKFF NEW APRON T\24:freetext
+Free Text:UKFF NEW APRON T\25:freetext
+Free Text:UKFF NEW APRON T\26:freetext
+Free Text:UKFF NEW APRON T\27:freetext
+Free Text:UKFF NEW APRON T\28:freetext
+Free Text:UKFF NEW APRON T\29:freetext
+Free Text:UKFF NEW APRON T\3:freetext
+Free Text:UKFF NEW APRON T\30:freetext
+Free Text:UKFF NEW APRON T\31:freetext
+Free Text:UKFF NEW APRON T\32:freetext
+Free Text:UKFF NEW APRON T\33:freetext
+Free Text:UKFF NEW APRON T\34:freetext
+Free Text:UKFF NEW APRON T\35:freetext
+Free Text:UKFF NEW APRON T\36:freetext
+Free Text:UKFF NEW APRON T\37:freetext
+Free Text:UKFF NEW APRON T\4:freetext
+Free Text:UKFF NEW APRON T\5:freetext
+Free Text:UKFF NEW APRON T\6:freetext
+Free Text:UKFF NEW APRON T\7:freetext
+Free Text:UKFF NEW APRON T\8:freetext
+Free Text:UKFF NEW APRON T\9:freetext
+Free Text:UKFF NEW APRON T\G1:freetext
+Free Text:UKFF NEW APRON T\G2:freetext
+Free Text:UKFF TAXIWAYS\A1:freetext
+Free Text:UKFF TAXIWAYS\A2:freetext
+Free Text:UKFF TAXIWAYS\A3:freetext
+Free Text:UKFF TAXIWAYS\B:freetext
+Free Text:UKFF TAXIWAYS\C:freetext
+Free Text:UKFF TAXIWAYS\D:freetext
+Free Text:UKFF TAXIWAYS\E:freetext
+Free Text:UKFF TAXIWAYS\F:freetext
+Free Text:UKFF TAXIWAYS\F:freetext
+Free Text:UKFF TAXIWAYS\G:freetext
+Free Text:UKFF TAXIWAYS\J:freetext
+Free Text:UKFF TAXIWAYS\L:freetext
+Free Text:UKFG PARKINGS\1:freetext
+Free Text:UKFG PARKINGS\10:freetext
+Free Text:UKFG PARKINGS\11:freetext
+Free Text:UKFG PARKINGS\12:freetext
+Free Text:UKFG PARKINGS\13:freetext
+Free Text:UKFG PARKINGS\14:freetext
+Free Text:UKFG PARKINGS\15:freetext
+Free Text:UKFG PARKINGS\16:freetext
+Free Text:UKFG PARKINGS\17:freetext
+Free Text:UKFG PARKINGS\18:freetext
+Free Text:UKFG PARKINGS\19:freetext
+Free Text:UKFG PARKINGS\2:freetext
+Free Text:UKFG PARKINGS\3:freetext
+Free Text:UKFG PARKINGS\4:freetext
+Free Text:UKFG PARKINGS\5:freetext
+Free Text:UKFG PARKINGS\6:freetext
+Free Text:UKFG PARKINGS\7:freetext
+Free Text:UKFG PARKINGS\9:freetext
+Free Text:UKHH parkings\1:freetext
+Free Text:UKHH parkings\1:freetext
+Free Text:UKHH parkings\10:freetext
+Free Text:UKHH parkings\11:freetext
+Free Text:UKHH parkings\12:freetext
+Free Text:UKHH parkings\13:freetext
+Free Text:UKHH parkings\14:freetext
+Free Text:UKHH parkings\15:freetext
+Free Text:UKHH parkings\16:freetext
+Free Text:UKHH parkings\17:freetext
+Free Text:UKHH parkings\18:freetext
+Free Text:UKHH parkings\19:freetext
+Free Text:UKHH parkings\2:freetext
+Free Text:UKHH parkings\2:freetext
+Free Text:UKHH parkings\20:freetext
+Free Text:UKHH parkings\21:freetext
+Free Text:UKHH parkings\22:freetext
+Free Text:UKHH parkings\23:freetext
+Free Text:UKHH parkings\24:freetext
+Free Text:UKHH parkings\25:freetext
+Free Text:UKHH parkings\28:freetext
+Free Text:UKHH parkings\29:freetext
+Free Text:UKHH parkings\3:freetext
+Free Text:UKHH parkings\3:freetext
+Free Text:UKHH parkings\4:freetext
+Free Text:UKHH parkings\4:freetext
+Free Text:UKHH parkings\5:freetext
+Free Text:UKHH parkings\6:freetext
+Free Text:UKHH parkings\7:freetext
+Free Text:UKHH parkings\8:freetext
+Free Text:UKHH parkings\9:freetext
+Free Text:UKHW\1:freetext
+Free Text:UKHW\1C:freetext
+Free Text:UKHW\2:freetext
+Free Text:UKHW\2C:freetext
+Free Text:UKHW\3:freetext
+Free Text:UKHW\4:freetext
+Free Text:UKHW\5:freetext
+Free Text:UKHW\6:freetext
+Free Text:UKHW\7:freetext
+Free Text:UKHW\8:freetext
+Free Text:UKHW\MC1:freetext
+Free Text:UKHW\MC2:freetext
+Free Text:UKHW\MC3:freetext
+Free Text:UKHW\MC4:freetext
+Free Text:UKHW\МРД:freetext
+Free Text:UKKG E STANDS\19 :freetext
+Free Text:UKKG E STANDS\20 :freetext
+Free Text:UKKG E STANDS\21 :freetext
+Free Text:UKKG E STANDS\22:freetext
+Free Text:UKKG E STANDS\23:freetext
+Free Text:UKKG E STANDS\24:freetext
+Free Text:UKKG E STANDS\25:freetext
+Free Text:UKKG E STANDS\26:freetext
+Free Text:UKKG E STANDS\27:freetext
+Free Text:UKKG E STANDS\28:freetext
+Free Text:UKKG E STANDS\29:freetext
+Free Text:UKKG E STANDS\30:freetext
+Free Text:UKKG E STANDS\31:freetext
+Free Text:UKKG E STANDS\32:freetext
+Free Text:UKKG E STANDS\33:freetext
+Free Text:UKKG E STANDS\34:freetext
+Free Text:UKKG E STANDS\35:freetext
+Free Text:UKKG E STANDS\36:freetext
+Free Text:UKKG E STANDS\37:freetext
+Free Text:UKKG E STANDS\38:freetext
+Free Text:UKKG E STANDS\39:freetext
+Free Text:UKKG E STANDS\40:freetext
+Free Text:UKKG E STANDS\41:freetext
+Free Text:UKKG E STANDS\42:freetext
+Free Text:UKKG E STANDS\43:freetext
+Free Text:UKKG E STANDS\44:freetext
+Free Text:UKKG E STANDS\45:freetext
+Free Text:UKKG E STANDS\46:freetext
+Free Text:UKKG E STANDS\47:freetext
+Free Text:UKKG E STANDS\48:freetext
+Free Text:UKKG E STANDS\49:freetext
+Free Text:UKKG E STANDS\50:freetext
+Free Text:UKKG E STANDS\90 :freetext
+Free Text:UKKG E STANDS\91:freetext
+Free Text:UKKG HELI STANDS\H1 :freetext
+Free Text:UKKG HELI STANDS\H2 :freetext
+Free Text:UKKG NE STANDS\1:freetext
+Free Text:UKKG NE STANDS\10:freetext
+Free Text:UKKG NE STANDS\11:freetext
+Free Text:UKKG NE STANDS\12:freetext
+Free Text:UKKG NE STANDS\13:freetext
+Free Text:UKKG NE STANDS\14:freetext
+Free Text:UKKG NE STANDS\15:freetext
+Free Text:UKKG NE STANDS\16:freetext
+Free Text:UKKG NE STANDS\17:freetext
+Free Text:UKKG NE STANDS\18:freetext
+Free Text:UKKG NE STANDS\19:freetext
+Free Text:UKKG NE STANDS\2:freetext
+Free Text:UKKG NE STANDS\20:freetext
+Free Text:UKKG NE STANDS\21:freetext
+Free Text:UKKG NE STANDS\22:freetext
+Free Text:UKKG NE STANDS\23:freetext
+Free Text:UKKG NE STANDS\24:freetext
+Free Text:UKKG NE STANDS\25:freetext
+Free Text:UKKG NE STANDS\26:freetext
+Free Text:UKKG NE STANDS\27:freetext
+Free Text:UKKG NE STANDS\28:freetext
+Free Text:UKKG NE STANDS\29:freetext
+Free Text:UKKG NE STANDS\3:freetext
+Free Text:UKKG NE STANDS\30:freetext
+Free Text:UKKG NE STANDS\31:freetext
+Free Text:UKKG NE STANDS\32:freetext
+Free Text:UKKG NE STANDS\33 :freetext
+Free Text:UKKG NE STANDS\34 :freetext
+Free Text:UKKG NE STANDS\4:freetext
+Free Text:UKKG NE STANDS\5:freetext
+Free Text:UKKG NE STANDS\6:freetext
+Free Text:UKKG NE STANDS\7:freetext
+Free Text:UKKG NE STANDS\8:freetext
+Free Text:UKKG NE STANDS\9:freetext
+Free Text:UKKG SW STANDS\ 1:freetext
+Free Text:UKKG SW STANDS\ 10:freetext
+Free Text:UKKG SW STANDS\ 11:freetext
+Free Text:UKKG SW STANDS\ 12:freetext
+Free Text:UKKG SW STANDS\ 13:freetext
+Free Text:UKKG SW STANDS\ 13A:freetext
+Free Text:UKKG SW STANDS\ 14:freetext
+Free Text:UKKG SW STANDS\ 14A:freetext
+Free Text:UKKG SW STANDS\ 15:freetext
+Free Text:UKKG SW STANDS\ 16:freetext
+Free Text:UKKG SW STANDS\ 17:freetext
+Free Text:UKKG SW STANDS\ 18:freetext
+Free Text:UKKG SW STANDS\ 19:freetext
+Free Text:UKKG SW STANDS\ 2:freetext
+Free Text:UKKG SW STANDS\ 20:freetext
+Free Text:UKKG SW STANDS\ 21:freetext
+Free Text:UKKG SW STANDS\ 22:freetext
+Free Text:UKKG SW STANDS\ 23:freetext
+Free Text:UKKG SW STANDS\ 24:freetext
+Free Text:UKKG SW STANDS\ 25:freetext
+Free Text:UKKG SW STANDS\ 26:freetext
+Free Text:UKKG SW STANDS\ 27:freetext
+Free Text:UKKG SW STANDS\ 28:freetext
+Free Text:UKKG SW STANDS\ 29:freetext
+Free Text:UKKG SW STANDS\ 3:freetext
+Free Text:UKKG SW STANDS\ 30:freetext
+Free Text:UKKG SW STANDS\ 31:freetext
+Free Text:UKKG SW STANDS\ 32:freetext
+Free Text:UKKG SW STANDS\ 33:freetext
+Free Text:UKKG SW STANDS\ 34:freetext
+Free Text:UKKG SW STANDS\ 35:freetext
+Free Text:UKKG SW STANDS\ 4:freetext
+Free Text:UKKG SW STANDS\ 5:freetext
+Free Text:UKKG SW STANDS\ 6:freetext
+Free Text:UKKG SW STANDS\ 7:freetext
+Free Text:UKKG SW STANDS\ 8:freetext
+Free Text:UKKG SW STANDS\ 9:freetext
+Free Text:UKKJ STANDS\50:freetext
+Free Text:UKKJ STANDS\51:freetext
+Free Text:UKKJ STANDS\52:freetext
+Free Text:UKKK parkings\1:freetext
+Free Text:UKKK parkings\1:freetext
+Free Text:UKKK parkings\1:freetext
+Free Text:UKKK parkings\1:freetext
+Free Text:UKKK parkings\10:freetext
+Free Text:UKKK parkings\10:freetext
+Free Text:UKKK parkings\10:freetext
+Free Text:UKKK parkings\11:freetext
+Free Text:UKKK parkings\11:freetext
+Free Text:UKKK parkings\11:freetext
+Free Text:UKKK parkings\12:freetext
+Free Text:UKKK parkings\12:freetext
+Free Text:UKKK parkings\12:freetext
+Free Text:UKKK parkings\13:freetext
+Free Text:UKKK parkings\13:freetext
+Free Text:UKKK parkings\13:freetext
+Free Text:UKKK parkings\14:freetext
+Free Text:UKKK parkings\14:freetext
+Free Text:UKKK parkings\14:freetext
+Free Text:UKKK parkings\15:freetext
+Free Text:UKKK parkings\15:freetext
+Free Text:UKKK parkings\16:freetext
+Free Text:UKKK parkings\16:freetext
+Free Text:UKKK parkings\17:freetext
+Free Text:UKKK parkings\17:freetext
+Free Text:UKKK parkings\18:freetext
+Free Text:UKKK parkings\18:freetext
+Free Text:UKKK parkings\19:freetext
+Free Text:UKKK parkings\19:freetext
+Free Text:UKKK parkings\2:freetext
+Free Text:UKKK parkings\2:freetext
+Free Text:UKKK parkings\2:freetext
+Free Text:UKKK parkings\2:freetext
+Free Text:UKKK parkings\20:freetext
+Free Text:UKKK parkings\20:freetext
+Free Text:UKKK parkings\21:freetext
+Free Text:UKKK parkings\21:freetext
+Free Text:UKKK parkings\22:freetext
+Free Text:UKKK parkings\22:freetext
+Free Text:UKKK parkings\23:freetext
+Free Text:UKKK parkings\23:freetext
+Free Text:UKKK parkings\23:freetext
+Free Text:UKKK parkings\24:freetext
+Free Text:UKKK parkings\24:freetext
+Free Text:UKKK parkings\25:freetext
+Free Text:UKKK parkings\25:freetext
+Free Text:UKKK parkings\26:freetext
+Free Text:UKKK parkings\26:freetext
+Free Text:UKKK parkings\27:freetext
+Free Text:UKKK parkings\27:freetext
+Free Text:UKKK parkings\28:freetext
+Free Text:UKKK parkings\28:freetext
+Free Text:UKKK parkings\29:freetext
+Free Text:UKKK parkings\29:freetext
+Free Text:UKKK parkings\3:freetext
+Free Text:UKKK parkings\3:freetext
+Free Text:UKKK parkings\3:freetext
+Free Text:UKKK parkings\3:freetext
+Free Text:UKKK parkings\30:freetext
+Free Text:UKKK parkings\30:freetext
+Free Text:UKKK parkings\31:freetext
+Free Text:UKKK parkings\32:freetext
+Free Text:UKKK parkings\33:freetext
+Free Text:UKKK parkings\33:freetext
+Free Text:UKKK parkings\37:freetext
+Free Text:UKKK parkings\38:freetext
+Free Text:UKKK parkings\39:freetext
+Free Text:UKKK parkings\4:freetext
+Free Text:UKKK parkings\4:freetext
+Free Text:UKKK parkings\4:freetext
+Free Text:UKKK parkings\5:freetext
+Free Text:UKKK parkings\5:freetext
+Free Text:UKKK parkings\5:freetext
+Free Text:UKKK parkings\6:freetext
+Free Text:UKKK parkings\6:freetext
+Free Text:UKKK parkings\7:freetext
+Free Text:UKKK parkings\7:freetext
+Free Text:UKKK parkings\7:freetext
+Free Text:UKKK parkings\8:freetext
+Free Text:UKKK parkings\8:freetext
+Free Text:UKKK parkings\8:freetext
+Free Text:UKKK parkings\9:freetext
+Free Text:UKKK parkings\9:freetext
+Free Text:UKKK parkings\9:freetext
+Free Text:UKKK taxiways\1:freetext
+Free Text:UKKK taxiways\2:freetext
+Free Text:UKKK taxiways\2:freetext
+Free Text:UKKK taxiways\3:freetext
+Free Text:UKKK taxiways\4:freetext
+Free Text:UKKK taxiways\6:freetext
+Free Text:UKKM STANDS\1:freetext
+Free Text:UKKM STANDS\10:freetext
+Free Text:UKKM STANDS\101:freetext
+Free Text:UKKM STANDS\102:freetext
+Free Text:UKKM STANDS\103:freetext
+Free Text:UKKM STANDS\104:freetext
+Free Text:UKKM STANDS\105:freetext
+Free Text:UKKM STANDS\106:freetext
+Free Text:UKKM STANDS\107:freetext
+Free Text:UKKM STANDS\108:freetext
+Free Text:UKKM STANDS\109:freetext
+Free Text:UKKM STANDS\11:freetext
+Free Text:UKKM STANDS\110:freetext
+Free Text:UKKM STANDS\111:freetext
+Free Text:UKKM STANDS\112:freetext
+Free Text:UKKM STANDS\113:freetext
+Free Text:UKKM STANDS\12:freetext
+Free Text:UKKM STANDS\13:freetext
+Free Text:UKKM STANDS\14:freetext
+Free Text:UKKM STANDS\2:freetext
+Free Text:UKKM STANDS\225:freetext
+Free Text:UKKM STANDS\3:freetext
+Free Text:UKKM STANDS\4:freetext
+Free Text:UKKM STANDS\5:freetext
+Free Text:UKKM STANDS\6:freetext
+Free Text:UKKM STANDS\7:freetext
+Free Text:UKKM STANDS\8:freetext
+Free Text:UKKM STANDS\9:freetext
+Free Text:UKKW\11:freetext
+Free Text:UKKW\12:freetext
+Free Text:UKKW\13:freetext
+Free Text:UKKW\14:freetext
+Free Text:UKKW\15:freetext
+Free Text:UKKW\16:freetext
+Free Text:UKKW\17:freetext
+Free Text:UKKW\18:freetext
+Free Text:UKKW\19:freetext
+Free Text:UKKW\20:freetext
+Free Text:UKKW\21:freetext
+Free Text:UKKW\22:freetext
+Free Text:UKKW\23:freetext
+Free Text:UKKW\24:freetext
+Free Text:UKKW\25:freetext
+Free Text:UKKW\26:freetext
+Free Text:UKKW\27:freetext
+Free Text:UKKW\28:freetext
+Free Text:UKKW\28:freetext
+Free Text:UKKW\29:freetext
+Free Text:UKKW\29:freetext
+Free Text:UKKW\30:freetext
+Free Text:UKKW\30:freetext
+Free Text:UKKW\31:freetext
+Free Text:UKKW\31:freetext
+Free Text:UKKW\32:freetext
+Free Text:UKKW\32:freetext
+Free Text:UKKW\33:freetext
+Free Text:UKKW\33:freetext
+Free Text:UKKW\34:freetext
+Free Text:UKKW\34:freetext
+Free Text:UKKW\35:freetext
+Free Text:UKKW\35:freetext
+Free Text:UKKW\36:freetext
+Free Text:UKKW\36:freetext
+Free Text:UKKW\37:freetext
+Free Text:UKKW\37:freetext
+Free Text:UKKW\38:freetext
+Free Text:UKKW\39:freetext
+Free Text:UKKW\40:freetext
+Free Text:UKKW\41:freetext
+Free Text:UKKW\MRD:freetext
+Free Text:UKKW\Other:freetext
+Free Text:UKKW\RD1:freetext
+Free Text:UKKW\RD2:freetext
+Free Text:UKKW\RD3:freetext
+Free Text:UKKW\RD4:freetext
+Free Text:UKLF STANDS\10:freetext
+Free Text:UKLF STANDS\11:freetext
+Free Text:UKLF STANDS\12:freetext
+Free Text:UKLF STANDS\13:freetext
+Free Text:UKLF STANDS\15:freetext
+Free Text:UKLF STANDS\16:freetext
+Free Text:UKLF STANDS\17:freetext
+Free Text:UKLF STANDS\3:freetext
+Free Text:UKLF STANDS\4:freetext
+Free Text:UKLF STANDS\5:freetext
+Free Text:UKLF STANDS\9:freetext
+Free Text:UKLI STANDS\1:freetext
+Free Text:UKLI STANDS\2:freetext
+Free Text:UKLI STANDS\3:freetext
+Free Text:UKLI STANDS\4:freetext
+Free Text:UKLI STANDS\5:freetext
+Free Text:UKLI STANDS\6:freetext
+Free Text:UKLI STANDS\7:freetext
+Free Text:UKLI STANDS\8:freetext
+Free Text:UKLI STANDS\MAIN:freetext
+Free Text:UKLI STANDS\X:freetext
+Free Text:UKLI STANDS\X:freetext
+Free Text:UKLI STANDS\X:freetext
+Free Text:UKLI TAXIWAYS\1:freetext
+Free Text:UKLI TAXIWAYS\10:freetext
+Free Text:UKLI TAXIWAYS\11:freetext
+Free Text:UKLI TAXIWAYS\12:freetext
+Free Text:UKLI TAXIWAYS\13:freetext
+Free Text:UKLI TAXIWAYS\2:freetext
+Free Text:UKLI TAXIWAYS\3:freetext
+Free Text:UKLI TAXIWAYS\4:freetext
+Free Text:UKLI TAXIWAYS\5:freetext
+Free Text:UKLI TAXIWAYS\6:freetext
+Free Text:UKLI TAXIWAYS\7:freetext
+Free Text:UKLI TAXIWAYS\8:freetext
+Free Text:UKLI TAXIWAYS\9:freetext
+Free Text:UKLL taxiways\2:freetext
+Free Text:UKLL taxiways\3:freetext
+Free Text:UKLL taxiways\4:freetext
+Free Text:UKLN STANDS\1:freetext
+Free Text:UKLN STANDS\10:freetext
+Free Text:UKLN STANDS\11:freetext
+Free Text:UKLN STANDS\12:freetext
+Free Text:UKLN STANDS\2:freetext
+Free Text:UKLN STANDS\3:freetext
+Free Text:UKLN STANDS\4:freetext
+Free Text:UKLN STANDS\5:freetext
+Free Text:UKLN STANDS\6:freetext
+Free Text:UKLN STANDS\7:freetext
+Free Text:UKLN STANDS\8:freetext
+Free Text:UKLN STANDS\9:freetext
+Free Text:UKLN TAXIWAYS\1:freetext
+Free Text:UKLR STANDS\1:freetext
+Free Text:UKLR STANDS\10:freetext
+Free Text:UKLR STANDS\11:freetext
+Free Text:UKLR STANDS\12:freetext
+Free Text:UKLR STANDS\13:freetext
+Free Text:UKLR STANDS\14:freetext
+Free Text:UKLR STANDS\15:freetext
+Free Text:UKLR STANDS\16:freetext
+Free Text:UKLR STANDS\17:freetext
+Free Text:UKLR STANDS\18:freetext
+Free Text:UKLR STANDS\19:freetext
+Free Text:UKLR STANDS\2:freetext
+Free Text:UKLR STANDS\20:freetext
+Free Text:UKLR STANDS\21:freetext
+Free Text:UKLR STANDS\22:freetext
+Free Text:UKLR STANDS\23:freetext
+Free Text:UKLR STANDS\24:freetext
+Free Text:UKLR STANDS\25:freetext
+Free Text:UKLR STANDS\26:freetext
+Free Text:UKLR STANDS\27:freetext
+Free Text:UKLR STANDS\28:freetext
+Free Text:UKLR STANDS\29:freetext
+Free Text:UKLR STANDS\3:freetext
+Free Text:UKLR STANDS\30:freetext
+Free Text:UKLR STANDS\31:freetext
+Free Text:UKLR STANDS\32:freetext
+Free Text:UKLR STANDS\7:freetext
+Free Text:UKLR STANDS\8:freetext
+Free Text:UKLR STANDS\9:freetext
+Free Text:UKLR TAXIWAYS\1:freetext
+Free Text:UKLR TAXIWAYS\10:freetext
+Free Text:UKLR TAXIWAYS\11:freetext
+Free Text:UKLR TAXIWAYS\2:freetext
+Free Text:UKLR TAXIWAYS\3:freetext
+Free Text:UKLR TAXIWAYS\4:freetext
+Free Text:UKLR TAXIWAYS\5:freetext
+Free Text:UKLR TAXIWAYS\6:freetext
+Free Text:UKLR TAXIWAYS\7:freetext
+Free Text:UKLR TAXIWAYS\8:freetext
+Free Text:UKLT STANDS\1:freetext
+Free Text:UKLT STANDS\10:freetext
+Free Text:UKLT STANDS\11:freetext
+Free Text:UKLT STANDS\12:freetext
+Free Text:UKLT STANDS\13:freetext
+Free Text:UKLT STANDS\14:freetext
+Free Text:UKLT STANDS\15:freetext
+Free Text:UKLT STANDS\16:freetext
+Free Text:UKLT STANDS\17:freetext
+Free Text:UKLT STANDS\18:freetext
+Free Text:UKLT STANDS\19:freetext
+Free Text:UKLT STANDS\2:freetext
+Free Text:UKLT STANDS\20:freetext
+Free Text:UKLT STANDS\21:freetext
+Free Text:UKLT STANDS\22:freetext
+Free Text:UKLT STANDS\23:freetext
+Free Text:UKLT STANDS\24:freetext
+Free Text:UKLT STANDS\25:freetext
+Free Text:UKLT STANDS\26:freetext
+Free Text:UKLT STANDS\27:freetext
+Free Text:UKLT STANDS\28:freetext
+Free Text:UKLT STANDS\29:freetext
+Free Text:UKLT STANDS\3:freetext
+Free Text:UKLT STANDS\30:freetext
+Free Text:UKLT STANDS\31:freetext
+Free Text:UKLT STANDS\32:freetext
+Free Text:UKLT STANDS\33:freetext
+Free Text:UKLT STANDS\4:freetext
+Free Text:UKLT STANDS\5:freetext
+Free Text:UKLT STANDS\6:freetext
+Free Text:UKLT STANDS\7:freetext
+Free Text:UKLT STANDS\8:freetext
+Free Text:UKLT STANDS\9:freetext
+Free Text:UKLT TAXIWAYS\1:freetext
+Free Text:UKLT TAXIWAYS\2:freetext
+Free Text:UKLT TAXIWAYS\3:freetext
+Free Text:UKLU parkings\1:freetext
+Free Text:UKLU parkings\2:freetext
+Free Text:UKLU parkings\3:freetext
+Free Text:UKLU parkings\4:freetext
+Free Text:UKLU parkings\5:freetext
+Free Text:UKLU parkings\6:freetext
+Free Text:UKLU parkings\7:freetext
+Free Text:UKLU parkings\8:freetext
+Free Text:UKOH STANDS\1:freetext
+Free Text:UKOH STANDS\10:freetext
+Free Text:UKOH STANDS\2:freetext
+Free Text:UKOH STANDS\3:freetext
+Free Text:UKOH STANDS\4:freetext
+Free Text:UKOH STANDS\5:freetext
+Free Text:UKOH STANDS\6:freetext
+Free Text:UKOH STANDS\7:freetext
+Free Text:UKOH STANDS\8:freetext
+Free Text:UKOH STANDS\9:freetext
+Free Text:UKOI STANDS\1:freetext
+Free Text:UKOI STANDS\10:freetext
+Free Text:UKOI STANDS\11:freetext
+Free Text:UKOI STANDS\2:freetext
+Free Text:UKOI STANDS\3:freetext
+Free Text:UKOI STANDS\4:freetext
+Free Text:UKOI STANDS\5:freetext
+Free Text:UKOI STANDS\6:freetext
+Free Text:UKOI STANDS\7:freetext
+Free Text:UKOI STANDS\8:freetext
+Free Text:UKOI STANDS\9:freetext
+Free Text:UKON STANDS\1:freetext
+Free Text:UKON STANDS\10:freetext
+Free Text:UKON STANDS\11:freetext
+Free Text:UKON STANDS\12:freetext
+Free Text:UKON STANDS\13:freetext
+Free Text:UKON STANDS\14:freetext
+Free Text:UKON STANDS\15:freetext
+Free Text:UKON STANDS\16:freetext
+Free Text:UKON STANDS\17:freetext
+Free Text:UKON STANDS\18:freetext
+Free Text:UKON STANDS\19:freetext
+Free Text:UKON STANDS\2:freetext
+Free Text:UKON STANDS\20:freetext
+Free Text:UKON STANDS\21:freetext
+Free Text:UKON STANDS\22:freetext
+Free Text:UKON STANDS\23:freetext
+Free Text:UKON STANDS\24:freetext
+Free Text:UKON STANDS\25:freetext
+Free Text:UKON STANDS\26:freetext
+Free Text:UKON STANDS\27:freetext
+Free Text:UKON STANDS\28:freetext
+Free Text:UKON STANDS\29:freetext
+Free Text:UKON STANDS\3:freetext
+Free Text:UKON STANDS\30:freetext
+Free Text:UKON STANDS\31:freetext
+Free Text:UKON STANDS\32:freetext
+Free Text:UKON STANDS\33:freetext
+Free Text:UKON STANDS\34:freetext
+Free Text:UKON STANDS\35:freetext
+Free Text:UKON STANDS\4:freetext
+Free Text:UKON STANDS\5:freetext
+Free Text:UKON STANDS\6:freetext
+Free Text:UKON STANDS\7:freetext
+Free Text:UKON STANDS\8:freetext
+Free Text:UKON STANDS\9:freetext
+Free Text:UKON TAXIWAYS\HOLD:freetext
+Free Text:UKON TAXIWAYS\TW1:freetext
+Free Text:UKON TAXIWAYS\TW2:freetext
+Free Text:UKON TAXIWAYS\TW3:freetext
+Free Text:UKON TAXIWAYS\TW4:freetext
+Free Text:UKON TAXIWAYS\X:freetext
+Free Text:UKON TAXIWAYS\X:freetext
+Free Text:UKON TAXIWAYS\X:freetext
+Free Text:UKON TAXIWAYS\X:freetext
+Free Text:UKOO STANDS\1:freetext
+Free Text:UKOO STANDS\10:freetext
+Free Text:UKOO STANDS\11:freetext
+Free Text:UKOO STANDS\12:freetext
+Free Text:UKOO STANDS\13:freetext
+Free Text:UKOO STANDS\15:freetext
+Free Text:UKOO STANDS\16:freetext
+Free Text:UKOO STANDS\16:freetext
+Free Text:UKOO STANDS\17:freetext
+Free Text:UKOO STANDS\18:freetext
+Free Text:UKOO STANDS\19:freetext
+Free Text:UKOO STANDS\2:freetext
+Free Text:UKOO STANDS\20:freetext
+Free Text:UKOO STANDS\21:freetext
+Free Text:UKOO STANDS\23:freetext
+Free Text:UKOO STANDS\24:freetext
+Free Text:UKOO STANDS\25:freetext
+Free Text:UKOO STANDS\26:freetext
+Free Text:UKOO STANDS\27:freetext
+Free Text:UKOO STANDS\28:freetext
+Free Text:UKOO STANDS\29:freetext
+Free Text:UKOO STANDS\3:freetext
+Free Text:UKOO STANDS\30:freetext
+Free Text:UKOO STANDS\31:freetext
+Free Text:UKOO STANDS\32:freetext
+Free Text:UKOO STANDS\33:freetext
+Free Text:UKOO STANDS\34:freetext
+Free Text:UKOO STANDS\4:freetext
+Free Text:UKOO STANDS\42:freetext
+Free Text:UKOO STANDS\43:freetext
+Free Text:UKOO STANDS\44:freetext
+Free Text:UKOO STANDS\45:freetext
+Free Text:UKOO STANDS\46:freetext
+Free Text:UKOO STANDS\5:freetext
+Free Text:UKOO STANDS\55:freetext
+Free Text:UKOO STANDS\56:freetext
+Free Text:UKOO STANDS\57:freetext
+Free Text:UKOO STANDS\58:freetext
+Free Text:UKOO STANDS\59:freetext
+Free Text:UKOO STANDS\6:freetext
+Free Text:UKOO STANDS\7:freetext
+Free Text:UKOO STANDS\8:freetext
+Free Text:UKOO STANDS\9:freetext
+Free Text:UKOO TAXIWAYS\MAIN:freetext
+Free Text:UKOO TAXIWAYS\TW1:freetext
+Free Text:UKOO TAXIWAYS\TW2:freetext
+Free Text:UKOO TAXIWAYS\TW3:freetext
+Free Text:UKOO TAXIWAYS\TW4:freetext
+Free Text:UKOO TAXIWAYS\TW5:freetext
+Free Text:UKOR PARKINGS\1:freetext
+Free Text:UKOR PARKINGS\2:freetext
+Free Text:UKOR PARKINGS\3:freetext
+Free Text:UKOR PARKINGS\4:freetext
+Free Text:UKOR PARKINGS\5:freetext
+Geo:Dnipro:
+Geo:GEO:
+Geo:Rivers in Crimea:
+Geo:Rivers of right bank:
+Geo:Rivers on left bank:
+Geo:State border:
+Geo:UK0D:
+Geo:UKBB:
+Geo:UKBB PARKINGS:
+Geo:UKBB TAXI LINES:
+Geo:UKBM:
+Geo:UKCC:
+Geo:UKCC OLD:
+Geo:UKCK:
+Geo:UKCM:
+Geo:UKCW:
+Geo:UKDD:
+Geo:UKDE:
+Geo:UKDE DEFAULT:
+Geo:UKDR:
+Geo:UKFF:
+Geo:UKFF DEFAULT:
+Geo:UKFF Distance Circle:
+Geo:UKFF MIN ALT 1350:
+Geo:UKFF MIN ALT 1500:
+Geo:UKFF MIN ALT 2150:
+Geo:UKFF MIN ALT 600:
+Geo:UKFF MIN ALT 900:
+Geo:UKFF MIN ALT 950:
+Geo:UKFG:
+Geo:UKHH:
+Geo:UKHW:
+Geo:UKKG:
+Geo:UKKJ:
+Geo:UKKK:
+Geo:UKKM:
+Geo:UKKT:
+Geo:UKKW:
+Geo:UKLI:
+Geo:UKLL:
+Geo:UKLN:
+Geo:UKLR:
+Geo:UKLT:
+Geo:UKLU:
+Geo:UKOH:
+Geo:UKOI:
+Geo:UKON:
+Geo:UKOO:
+Geo:UKOR:
+NDBs:A(CM):frequency
+NDBs:A(CM):name
+NDBs:A(CM):symbol
+NDBs:A(DE):frequency
+NDBs:A(DE):name
+NDBs:A(DE):symbol
+NDBs:AU:frequency
+NDBs:AU:name
+NDBs:AU:symbol
+NDBs:B:frequency
+NDBs:B:name
+NDBs:B:symbol
+NDBs:BB:frequency
+NDBs:BB:name
+NDBs:BB:symbol
+NDBs:BI:frequency
+NDBs:BI:name
+NDBs:BI:symbol
+NDBs:BO:frequency
+NDBs:BO:name
+NDBs:BO:symbol
+NDBs:C(KE):frequency
+NDBs:C(KE):name
+NDBs:C(KE):symbol
+NDBs:C(KM):frequency
+NDBs:C(KM):name
+NDBs:C(KM):symbol
+NDBs:C(LH):frequency
+NDBs:C(LH):name
+NDBs:C(LH):symbol
+NDBs:CC:frequency
+NDBs:CC:name
+NDBs:CC:symbol
+NDBs:CH:frequency
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:CK:frequency
+NDBs:CK:name
+NDBs:CK:symbol
+NDBs:CN:frequency
+NDBs:CN:name
+NDBs:CN:symbol
+NDBs:CR:frequency
+NDBs:CR:name
+NDBs:CR:symbol
+NDBs:CY:frequency
+NDBs:CY:name
+NDBs:CY:symbol
+NDBs:D(LR):frequency
+NDBs:D(LR):name
+NDBs:D(LR):symbol
+NDBs:D(OO):frequency
+NDBs:D(OO):name
+NDBs:D(OO):symbol
+NDBs:DM:frequency
+NDBs:DM:name
+NDBs:DM:symbol
+NDBs:DN(CC):frequency
+NDBs:DN(CC):name
+NDBs:DN(CC):symbol
+NDBs:DO(CC):frequency
+NDBs:DO(CC):name
+NDBs:DO(CC):symbol
+NDBs:DP:frequency
+NDBs:DP:name
+NDBs:DP:symbol
+NDBs:DR:frequency
+NDBs:DR:name
+NDBs:DR:symbol
+NDBs:DW:frequency
+NDBs:DW:name
+NDBs:DW:symbol
+NDBs:E(BB):frequency
+NDBs:E(BB):name
+NDBs:E(BB):symbol
+NDBs:E(LT):frequency
+NDBs:E(LT):name
+NDBs:E(LT):symbol
+NDBs:E(OH):frequency
+NDBs:E(OH):name
+NDBs:E(OH):symbol
+NDBs:E(OO):frequency
+NDBs:E(OO):name
+NDBs:E(OO):symbol
+NDBs:F(FF):frequency
+NDBs:F(FF):name
+NDBs:F(FF):symbol
+NDBs:F(LI):frequency
+NDBs:F(LI):name
+NDBs:F(LI):symbol
+NDBs:G:frequency
+NDBs:G:name
+NDBs:G:symbol
+NDBs:GE:frequency
+NDBs:GE:name
+NDBs:GE:symbol
+NDBs:GO:frequency
+NDBs:GO:name
+NDBs:GO:symbol
+NDBs:GR:frequency
+NDBs:GR:name
+NDBs:GR:symbol
+NDBs:HC:frequency
+NDBs:HC:name
+NDBs:HC:symbol
+NDBs:HE:frequency
+NDBs:HE:name
+NDBs:HE:symbol
+NDBs:HM:frequency
+NDBs:HM:name
+NDBs:HM:symbol
+NDBs:HS:frequency
+NDBs:HS:name
+NDBs:HS:symbol
+NDBs:I(BB):frequency
+NDBs:I(BB):name
+NDBs:I(BB):symbol
+NDBs:I(ON):frequency
+NDBs:I(ON):name
+NDBs:I(ON):symbol
+NDBs:IF:frequency
+NDBs:IF:name
+NDBs:IF:symbol
+NDBs:IL:frequency
+NDBs:IL:name
+NDBs:IL:symbol
+NDBs:IV:frequency
+NDBs:IV:name
+NDBs:IV:symbol
+NDBs:JA:frequency
+NDBs:JA:name
+NDBs:JA:symbol
+NDBs:K(KE):frequency
+NDBs:K(KE):name
+NDBs:K(KE):symbol
+NDBs:K(ON):frequency
+NDBs:K(ON):name
+NDBs:K(ON):symbol
+NDBs:KB:frequency
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KD:frequency
+NDBs:KD:name
+NDBs:KD:symbol
+NDBs:KDo:frequency
+NDBs:KDo:name
+NDBs:KDo:symbol
+NDBs:KE:frequency
+NDBs:KE:name
+NDBs:KE:symbol
+NDBs:KH:frequency
+NDBs:KH:name
+NDBs:KH:symbol
+NDBs:KO:frequency
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KR:frequency
+NDBs:KR:name
+NDBs:KR:symbol
+NDBs:KR(OR):frequency
+NDBs:KR(OR):name
+NDBs:KR(OR):symbol
+NDBs:KW:frequency
+NDBs:KW:name
+NDBs:KW:symbol
+NDBs:L:frequency
+NDBs:L:name
+NDBs:L:symbol
+NDBs:LC:frequency
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LE:frequency
+NDBs:LE:name
+NDBs:LE:symbol
+NDBs:LI:frequency
+NDBs:LI:name
+NDBs:LI:symbol
+NDBs:LKK:frequency
+NDBs:LKK:name
+NDBs:LKK:symbol
+NDBs:LKM:frequency
+NDBs:LKM:name
+NDBs:LKM:symbol
+NDBs:LKP:frequency
+NDBs:LKP:name
+NDBs:LKP:symbol
+NDBs:LKS:frequency
+NDBs:LKS:name
+NDBs:LKS:symbol
+NDBs:LO:frequency
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:LS:frequency
+NDBs:LS:name
+NDBs:LS:symbol
+NDBs:LV:frequency
+NDBs:LV:name
+NDBs:LV:symbol
+NDBs:M:frequency
+NDBs:M:name
+NDBs:M:symbol
+NDBs:MA:frequency
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MR:frequency
+NDBs:MR:name
+NDBs:MR:symbol
+NDBs:N(CC):frequency
+NDBs:N(CC):name
+NDBs:N(CC):symbol
+NDBs:N(FF):frequency
+NDBs:N(FF):name
+NDBs:N(FF):symbol
+NDBs:N(HW):frequency
+NDBs:N(HW):name
+NDBs:N(HW):symbol
+NDBs:N(LC):frequency
+NDBs:N(LC):name
+NDBs:N(LC):symbol
+NDBs:N(LT):frequency
+NDBs:N(LT):name
+NDBs:N(LT):symbol
+NDBs:NK:frequency
+NDBs:NK:name
+NDBs:NK:symbol
+NDBs:NL:frequency
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:NM:frequency
+NDBs:NM:name
+NDBs:NM:symbol
+NDBs:NO:frequency
+NDBs:NO:name
+NDBs:NO:symbol
+NDBs:NS(HW):frequency
+NDBs:NS(HW):name
+NDBs:NS(HW):symbol
+NDBs:O(BB):frequency
+NDBs:O(BB):name
+NDBs:O(BB):symbol
+NDBs:O(CC):frequency
+NDBs:O(CC):name
+NDBs:O(CC):symbol
+NDBs:O(KM):frequency
+NDBs:O(KM):name
+NDBs:O(KM):symbol
+NDBs:O(LL):frequency
+NDBs:O(LL):name
+NDBs:O(LL):symbol
+NDBs:OD:frequency
+NDBs:OD:name
+NDBs:OD:symbol
+NDBs:OE:frequency
+NDBs:OE:name
+NDBs:OE:symbol
+NDBs:OT:frequency
+NDBs:OT:name
+NDBs:OT:symbol
+NDBs:P(CM):frequency
+NDBs:P(CM):name
+NDBs:P(CM):symbol
+NDBs:P(DD):frequency
+NDBs:P(DD):name
+NDBs:P(DD):symbol
+NDBs:P(DE):frequency
+NDBs:P(DE):name
+NDBs:P(DE):symbol
+NDBs:PA:frequency
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PI:frequency
+NDBs:PI:name
+NDBs:PI:symbol
+NDBs:PW:frequency
+NDBs:PW:name
+NDBs:PW:symbol
+NDBs:R(DD):frequency
+NDBs:R(DD):name
+NDBs:R(DD):symbol
+NDBs:R(LC):frequency
+NDBs:R(LC):name
+NDBs:R(LC):symbol
+NDBs:R(MM):frequency
+NDBs:R(MM):name
+NDBs:R(MM):symbol
+NDBs:RD:frequency
+NDBs:RD:name
+NDBs:RD:symbol
+NDBs:RS:frequency
+NDBs:RS:name
+NDBs:RS:symbol
+NDBs:RW:frequency
+NDBs:RW:name
+NDBs:RW:symbol
+NDBs:S:frequency
+NDBs:S:name
+NDBs:S:symbol
+NDBs:SF:frequency
+NDBs:SF:name
+NDBs:SF:symbol
+NDBs:SH:frequency
+NDBs:SH:name
+NDBs:SH:symbol
+NDBs:SL:frequency
+NDBs:SL:name
+NDBs:SL:symbol
+NDBs:SM:frequency
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SN:frequency
+NDBs:SN:name
+NDBs:SN:symbol
+NDBs:SR:frequency
+NDBs:SR:name
+NDBs:SR:symbol
+NDBs:SV:frequency
+NDBs:SV:name
+NDBs:SV:symbol
+NDBs:SW:frequency
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:T(MM):frequency
+NDBs:T(MM):name
+NDBs:T(MM):symbol
+NDBs:TE:frequency
+NDBs:TE:name
+NDBs:TE:symbol
+NDBs:TM:frequency
+NDBs:TM:name
+NDBs:TM:symbol
+NDBs:TN:frequency
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TP:frequency
+NDBs:TP:name
+NDBs:TP:symbol
+NDBs:TR:frequency
+NDBs:TR:name
+NDBs:TR:symbol
+NDBs:U(HW):frequency
+NDBs:U(HW):name
+NDBs:U(HW):symbol
+NDBs:UG:frequency
+NDBs:UG:name
+NDBs:UG:symbol
+NDBs:UH(HW):frequency
+NDBs:UH(HW):name
+NDBs:UH(HW):symbol
+NDBs:V(LI):frequency
+NDBs:V(LI):name
+NDBs:V(LI):symbol
+NDBs:V(LL):frequency
+NDBs:V(LL):name
+NDBs:V(LL):symbol
+NDBs:VI:frequency
+NDBs:VI:name
+NDBs:VI:symbol
+NDBs:W(LR):frequency
+NDBs:W(LR):name
+NDBs:W(LR):symbol
+NDBs:ZA:frequency
+NDBs:ZA:name
+NDBs:ZA:symbol
+NDBs:ZL:frequency
+NDBs:ZL:name
+NDBs:ZL:symbol
+NDBs:ZP:frequency
+NDBs:ZP:name
+NDBs:ZP:symbol
+Runways:UKBB Boryspil 18L-36R:centerline
+Runways:UKBB Boryspil 18L-36R:extended centerline 1
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left base
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 left vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right base
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 1 right vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 2
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left base
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 left vectoring
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right base
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right ticks
+Runways:UKBB Boryspil 18L-36R:extended centerline 2 right vectoring
+Runways:UKBB Boryspil 18L-36R:name
+Runways:UKBB Boryspil 18R-36L:centerline
+Runways:UKBB Boryspil 18R-36L:extended centerline 1
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left base
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 left vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right base
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 1 right vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 2
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left base
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 left vectoring
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right base
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right ticks
+Runways:UKBB Boryspil 18R-36L:extended centerline 2 right vectoring
+Runways:UKBB Boryspil 18R-36L:name
+Runways:UKBM Миргород 04-22:centerline
+Runways:UKBM Миргород 04-22:extended centerline 1
+Runways:UKBM Миргород 04-22:extended centerline 1 left base
+Runways:UKBM Миргород 04-22:extended centerline 1 left ticks
+Runways:UKBM Миргород 04-22:extended centerline 1 left vectoring
+Runways:UKBM Миргород 04-22:extended centerline 1 right base
+Runways:UKBM Миргород 04-22:extended centerline 1 right ticks
+Runways:UKBM Миргород 04-22:extended centerline 1 right vectoring
+Runways:UKBM Миргород 04-22:extended centerline 2
+Runways:UKBM Миргород 04-22:extended centerline 2 left base
+Runways:UKBM Миргород 04-22:extended centerline 2 left ticks
+Runways:UKBM Миргород 04-22:extended centerline 2 left vectoring
+Runways:UKBM Миргород 04-22:extended centerline 2 right base
+Runways:UKBM Миргород 04-22:extended centerline 2 right ticks
+Runways:UKBM Миргород 04-22:extended centerline 2 right vectoring
+Runways:UKBM Миргород 04-22:name
+Runways:UKCC Donetsk 08-26:centerline
+Runways:UKCC Donetsk 08-26:extended centerline 1
+Runways:UKCC Donetsk 08-26:extended centerline 1 left base
+Runways:UKCC Donetsk 08-26:extended centerline 1 left ticks
+Runways:UKCC Donetsk 08-26:extended centerline 1 left vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 1 right base
+Runways:UKCC Donetsk 08-26:extended centerline 1 right ticks
+Runways:UKCC Donetsk 08-26:extended centerline 1 right vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 2
+Runways:UKCC Donetsk 08-26:extended centerline 2 left base
+Runways:UKCC Donetsk 08-26:extended centerline 2 left ticks
+Runways:UKCC Donetsk 08-26:extended centerline 2 left vectoring
+Runways:UKCC Donetsk 08-26:extended centerline 2 right base
+Runways:UKCC Donetsk 08-26:extended centerline 2 right ticks
+Runways:UKCC Donetsk 08-26:extended centerline 2 right vectoring
+Runways:UKCC Donetsk 08-26:name
+Runways:UKCC OLD 08-26:centerline
+Runways:UKCC OLD 08-26:extended centerline 1
+Runways:UKCC OLD 08-26:extended centerline 1 left base
+Runways:UKCC OLD 08-26:extended centerline 1 left ticks
+Runways:UKCC OLD 08-26:extended centerline 1 left vectoring
+Runways:UKCC OLD 08-26:extended centerline 1 right base
+Runways:UKCC OLD 08-26:extended centerline 1 right ticks
+Runways:UKCC OLD 08-26:extended centerline 1 right vectoring
+Runways:UKCC OLD 08-26:extended centerline 2
+Runways:UKCC OLD 08-26:extended centerline 2 left base
+Runways:UKCC OLD 08-26:extended centerline 2 left ticks
+Runways:UKCC OLD 08-26:extended centerline 2 left vectoring
+Runways:UKCC OLD 08-26:extended centerline 2 right base
+Runways:UKCC OLD 08-26:extended centerline 2 right ticks
+Runways:UKCC OLD 08-26:extended centerline 2 right vectoring
+Runways:UKCC OLD 08-26:name
+Runways:UKCK Kramatorsk 09-27:centerline
+Runways:UKCK Kramatorsk 09-27:extended centerline 1
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left base
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 left vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right base
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 1 right vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 2
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left base
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 left vectoring
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right base
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right ticks
+Runways:UKCK Kramatorsk 09-27:extended centerline 2 right vectoring
+Runways:UKCK Kramatorsk 09-27:name
+Runways:UKCM Mariupol' 02-20:centerline
+Runways:UKCM Mariupol' 02-20:extended centerline 1
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left base
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 1 left vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right base
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 1 right vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 2
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left base
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 2 left vectoring
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right base
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right ticks
+Runways:UKCM Mariupol' 02-20:extended centerline 2 right vectoring
+Runways:UKCM Mariupol' 02-20:name
+Runways:UKCW Luhansk 09-27:centerline
+Runways:UKCW Luhansk 09-27:extended centerline 1
+Runways:UKCW Luhansk 09-27:extended centerline 1 left base
+Runways:UKCW Luhansk 09-27:extended centerline 1 left ticks
+Runways:UKCW Luhansk 09-27:extended centerline 1 left vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 1 right base
+Runways:UKCW Luhansk 09-27:extended centerline 1 right ticks
+Runways:UKCW Luhansk 09-27:extended centerline 1 right vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 2
+Runways:UKCW Luhansk 09-27:extended centerline 2 left base
+Runways:UKCW Luhansk 09-27:extended centerline 2 left ticks
+Runways:UKCW Luhansk 09-27:extended centerline 2 left vectoring
+Runways:UKCW Luhansk 09-27:extended centerline 2 right base
+Runways:UKCW Luhansk 09-27:extended centerline 2 right ticks
+Runways:UKCW Luhansk 09-27:extended centerline 2 right vectoring
+Runways:UKCW Luhansk 09-27:name
+Runways:UKDE Zaporizhja Mokraja 02-20:centerline
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 1 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right base
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right ticks
+Runways:UKDE Zaporizhja Mokraja 02-20:extended centerline 2 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02-20:name
+Runways:UKDE Zaporizhja Mokraja 02L-20R:centerline
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 1 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 left vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right base
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right ticks
+Runways:UKDE Zaporizhja Mokraja 02L-20R:extended centerline 2 right vectoring
+Runways:UKDE Zaporizhja Mokraja 02L-20R:name
+Runways:UKFB Sevastopol' Bel'bek 07-25:centerline
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 left vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 1 right vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 left vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right base
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right ticks
+Runways:UKFB Sevastopol' Bel'bek 07-25:extended centerline 2 right vectoring
+Runways:UKFB Sevastopol' Bel'bek 07-25:name
+Runways:UKFF Simferopol' 01-19:centerline
+Runways:UKFF Simferopol' 01-19:extended centerline 1
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left base
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 1 left vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right base
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 1 right vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 2
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left base
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 2 left vectoring
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right base
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right ticks
+Runways:UKFF Simferopol' 01-19:extended centerline 2 right vectoring
+Runways:UKFF Simferopol' 01-19:name
+Runways:UKFG Gvardeyskoe 01-19:centerline
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 left vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 1 right vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 left vectoring
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right base
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right ticks
+Runways:UKFG Gvardeyskoe 01-19:extended centerline 2 right vectoring
+Runways:UKFG Gvardeyskoe 01-19:name
+Runways:UKFK Kerch 07-25:centerline
+Runways:UKFK Kerch 07-25:extended centerline 1
+Runways:UKFK Kerch 07-25:extended centerline 1 left base
+Runways:UKFK Kerch 07-25:extended centerline 1 left ticks
+Runways:UKFK Kerch 07-25:extended centerline 1 left vectoring
+Runways:UKFK Kerch 07-25:extended centerline 1 right base
+Runways:UKFK Kerch 07-25:extended centerline 1 right ticks
+Runways:UKFK Kerch 07-25:extended centerline 1 right vectoring
+Runways:UKFK Kerch 07-25:extended centerline 2
+Runways:UKFK Kerch 07-25:extended centerline 2 left base
+Runways:UKFK Kerch 07-25:extended centerline 2 left ticks
+Runways:UKFK Kerch 07-25:extended centerline 2 left vectoring
+Runways:UKFK Kerch 07-25:extended centerline 2 right base
+Runways:UKFK Kerch 07-25:extended centerline 2 right ticks
+Runways:UKFK Kerch 07-25:extended centerline 2 right vectoring
+Runways:UKFK Kerch 07-25:name
+Runways:UKFW Simferopol' Zavodskoe 02-20:centerline
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 left vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 1 right vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 left vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right base
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right ticks
+Runways:UKFW Simferopol' Zavodskoe 02-20:extended centerline 2 right vectoring
+Runways:UKFW Simferopol' Zavodskoe 02-20:name
+Runways:UKHW Rogach 35-17:centerline
+Runways:UKHW Rogach 35-17:extended centerline 1
+Runways:UKHW Rogach 35-17:extended centerline 1 left base
+Runways:UKHW Rogach 35-17:extended centerline 1 left ticks
+Runways:UKHW Rogach 35-17:extended centerline 1 left vectoring
+Runways:UKHW Rogach 35-17:extended centerline 1 right base
+Runways:UKHW Rogach 35-17:extended centerline 1 right ticks
+Runways:UKHW Rogach 35-17:extended centerline 1 right vectoring
+Runways:UKHW Rogach 35-17:extended centerline 2
+Runways:UKHW Rogach 35-17:extended centerline 2 left base
+Runways:UKHW Rogach 35-17:extended centerline 2 left ticks
+Runways:UKHW Rogach 35-17:extended centerline 2 left vectoring
+Runways:UKHW Rogach 35-17:extended centerline 2 right base
+Runways:UKHW Rogach 35-17:extended centerline 2 right ticks
+Runways:UKHW Rogach 35-17:extended centerline 2 right vectoring
+Runways:UKHW Rogach 35-17:name
+Runways:UKHY Dzankoy 05-23:centerline
+Runways:UKHY Dzankoy 05-23:extended centerline 1
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left base
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 1 left vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right base
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 1 right vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 2
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left base
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 2 left vectoring
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right base
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right ticks
+Runways:UKHY Dzankoy 05-23:extended centerline 2 right vectoring
+Runways:UKHY Dzankoy 05-23:name
+Runways:UKKE Cherkasy 15-33:centerline
+Runways:UKKE Cherkasy 15-33:extended centerline 1
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left base
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 1 left vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right base
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 1 right vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 2
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left base
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 2 left vectoring
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right base
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right ticks
+Runways:UKKE Cherkasy 15-33:extended centerline 2 right vectoring
+Runways:UKKE Cherkasy 15-33:name
+Runways:UKKG Kirovograd 16-34:centerline
+Runways:UKKG Kirovograd 16-34:extended centerline 1
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left base
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 1 left vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right base
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 1 right vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 2
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left base
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 2 left vectoring
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right base
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right ticks
+Runways:UKKG Kirovograd 16-34:extended centerline 2 right vectoring
+Runways:UKKG Kirovograd 16-34:name
+Runways:UKKM Antonov 15-33:centerline
+Runways:UKKM Antonov 15-33:extended centerline 1
+Runways:UKKM Antonov 15-33:extended centerline 1 left base
+Runways:UKKM Antonov 15-33:extended centerline 1 left ticks
+Runways:UKKM Antonov 15-33:extended centerline 1 left vectoring
+Runways:UKKM Antonov 15-33:extended centerline 1 right base
+Runways:UKKM Antonov 15-33:extended centerline 1 right ticks
+Runways:UKKM Antonov 15-33:extended centerline 1 right vectoring
+Runways:UKKM Antonov 15-33:extended centerline 2
+Runways:UKKM Antonov 15-33:extended centerline 2 left base
+Runways:UKKM Antonov 15-33:extended centerline 2 left ticks
+Runways:UKKM Antonov 15-33:extended centerline 2 left vectoring
+Runways:UKKM Antonov 15-33:extended centerline 2 right base
+Runways:UKKM Antonov 15-33:extended centerline 2 right ticks
+Runways:UKKM Antonov 15-33:extended centerline 2 right vectoring
+Runways:UKKM Antonov 15-33:name
+Runways:UKKT Aviant 14-32:centerline
+Runways:UKKT Aviant 14-32:extended centerline 1
+Runways:UKKT Aviant 14-32:extended centerline 1 left base
+Runways:UKKT Aviant 14-32:extended centerline 1 left ticks
+Runways:UKKT Aviant 14-32:extended centerline 1 left vectoring
+Runways:UKKT Aviant 14-32:extended centerline 1 right base
+Runways:UKKT Aviant 14-32:extended centerline 1 right ticks
+Runways:UKKT Aviant 14-32:extended centerline 1 right vectoring
+Runways:UKKT Aviant 14-32:extended centerline 2
+Runways:UKKT Aviant 14-32:extended centerline 2 left base
+Runways:UKKT Aviant 14-32:extended centerline 2 left ticks
+Runways:UKKT Aviant 14-32:extended centerline 2 left vectoring
+Runways:UKKT Aviant 14-32:extended centerline 2 right base
+Runways:UKKT Aviant 14-32:extended centerline 2 right ticks
+Runways:UKKT Aviant 14-32:extended centerline 2 right vectoring
+Runways:UKKT Aviant 14-32:name
+Runways:UKKW Vasylkiv 13-31:centerline
+Runways:UKKW Vasylkiv 13-31:extended centerline 1
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left base
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 left vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right base
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 1 right vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 2
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left base
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 left vectoring
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right base
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right ticks
+Runways:UKKW Vasylkiv 13-31:extended centerline 2 right vectoring
+Runways:UKKW Vasylkiv 13-31:name
+Runways:UKLH Khmelnytskyi 16-34:centerline
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 left vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 1 right vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 left vectoring
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right base
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right ticks
+Runways:UKLH Khmelnytskyi 16-34:extended centerline 2 right vectoring
+Runways:UKLH Khmelnytskyi 16-34:name
+Runways:UKLI Ivano-frankivsk 10-28:centerline
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 left vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 1 right vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 left vectoring
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right base
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right ticks
+Runways:UKLI Ivano-frankivsk 10-28:extended centerline 2 right vectoring
+Runways:UKLI Ivano-frankivsk 10-28:name
+Runways:UKLK Lutsk 12-30:centerline
+Runways:UKLK Lutsk 12-30:extended centerline 1
+Runways:UKLK Lutsk 12-30:extended centerline 1 left base
+Runways:UKLK Lutsk 12-30:extended centerline 1 left ticks
+Runways:UKLK Lutsk 12-30:extended centerline 1 left vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 1 right base
+Runways:UKLK Lutsk 12-30:extended centerline 1 right ticks
+Runways:UKLK Lutsk 12-30:extended centerline 1 right vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 2
+Runways:UKLK Lutsk 12-30:extended centerline 2 left base
+Runways:UKLK Lutsk 12-30:extended centerline 2 left ticks
+Runways:UKLK Lutsk 12-30:extended centerline 2 left vectoring
+Runways:UKLK Lutsk 12-30:extended centerline 2 right base
+Runways:UKLK Lutsk 12-30:extended centerline 2 right ticks
+Runways:UKLK Lutsk 12-30:extended centerline 2 right vectoring
+Runways:UKLK Lutsk 12-30:name
+Runways:UKLL Lviv 13-31:centerline
+Runways:UKLL Lviv 13-31:extended centerline 1
+Runways:UKLL Lviv 13-31:extended centerline 1 left base
+Runways:UKLL Lviv 13-31:extended centerline 1 left ticks
+Runways:UKLL Lviv 13-31:extended centerline 1 left vectoring
+Runways:UKLL Lviv 13-31:extended centerline 1 right base
+Runways:UKLL Lviv 13-31:extended centerline 1 right ticks
+Runways:UKLL Lviv 13-31:extended centerline 1 right vectoring
+Runways:UKLL Lviv 13-31:extended centerline 2
+Runways:UKLL Lviv 13-31:extended centerline 2 left base
+Runways:UKLL Lviv 13-31:extended centerline 2 left ticks
+Runways:UKLL Lviv 13-31:extended centerline 2 left vectoring
+Runways:UKLL Lviv 13-31:extended centerline 2 right base
+Runways:UKLL Lviv 13-31:extended centerline 2 right ticks
+Runways:UKLL Lviv 13-31:extended centerline 2 right vectoring
+Runways:UKLL Lviv 13-31:name
+Runways:UKLN Chernivtsi 15-33:centerline
+Runways:UKLN Chernivtsi 15-33:extended centerline 1
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left base
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 left vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right base
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 1 right vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 2
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left base
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 left vectoring
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right base
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right ticks
+Runways:UKLN Chernivtsi 15-33:extended centerline 2 right vectoring
+Runways:UKLN Chernivtsi 15-33:name
+Runways:UKLR Rivne 12-30:centerline
+Runways:UKLR Rivne 12-30:extended centerline 1
+Runways:UKLR Rivne 12-30:extended centerline 1 left base
+Runways:UKLR Rivne 12-30:extended centerline 1 left ticks
+Runways:UKLR Rivne 12-30:extended centerline 1 left vectoring
+Runways:UKLR Rivne 12-30:extended centerline 1 right base
+Runways:UKLR Rivne 12-30:extended centerline 1 right ticks
+Runways:UKLR Rivne 12-30:extended centerline 1 right vectoring
+Runways:UKLR Rivne 12-30:extended centerline 2
+Runways:UKLR Rivne 12-30:extended centerline 2 left base
+Runways:UKLR Rivne 12-30:extended centerline 2 left ticks
+Runways:UKLR Rivne 12-30:extended centerline 2 left vectoring
+Runways:UKLR Rivne 12-30:extended centerline 2 right base
+Runways:UKLR Rivne 12-30:extended centerline 2 right ticks
+Runways:UKLR Rivne 12-30:extended centerline 2 right vectoring
+Runways:UKLR Rivne 12-30:name
+Runways:UKLT Ternopil 10-28:centerline
+Runways:UKLT Ternopil 10-28:extended centerline 1
+Runways:UKLT Ternopil 10-28:extended centerline 1 left base
+Runways:UKLT Ternopil 10-28:extended centerline 1 left ticks
+Runways:UKLT Ternopil 10-28:extended centerline 1 left vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 1 right base
+Runways:UKLT Ternopil 10-28:extended centerline 1 right ticks
+Runways:UKLT Ternopil 10-28:extended centerline 1 right vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 2
+Runways:UKLT Ternopil 10-28:extended centerline 2 left base
+Runways:UKLT Ternopil 10-28:extended centerline 2 left ticks
+Runways:UKLT Ternopil 10-28:extended centerline 2 left vectoring
+Runways:UKLT Ternopil 10-28:extended centerline 2 right base
+Runways:UKLT Ternopil 10-28:extended centerline 2 right ticks
+Runways:UKLT Ternopil 10-28:extended centerline 2 right vectoring
+Runways:UKLT Ternopil 10-28:name
+Runways:UKLU Uzhhorod 28-10:centerline
+Runways:UKLU Uzhhorod 28-10:extended centerline 1
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left base
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 left vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right base
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 1 right vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 2
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left base
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 left vectoring
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right base
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right ticks
+Runways:UKLU Uzhhorod 28-10:extended centerline 2 right vectoring
+Runways:UKLU Uzhhorod 28-10:name
+Runways:UKOH Kherson 03-21:centerline
+Runways:UKOH Kherson 03-21:extended centerline 1
+Runways:UKOH Kherson 03-21:extended centerline 1 left base
+Runways:UKOH Kherson 03-21:extended centerline 1 left ticks
+Runways:UKOH Kherson 03-21:extended centerline 1 left vectoring
+Runways:UKOH Kherson 03-21:extended centerline 1 right base
+Runways:UKOH Kherson 03-21:extended centerline 1 right ticks
+Runways:UKOH Kherson 03-21:extended centerline 1 right vectoring
+Runways:UKOH Kherson 03-21:extended centerline 2
+Runways:UKOH Kherson 03-21:extended centerline 2 left base
+Runways:UKOH Kherson 03-21:extended centerline 2 left ticks
+Runways:UKOH Kherson 03-21:extended centerline 2 left vectoring
+Runways:UKOH Kherson 03-21:extended centerline 2 right base
+Runways:UKOH Kherson 03-21:extended centerline 2 right ticks
+Runways:UKOH Kherson 03-21:extended centerline 2 right vectoring
+Runways:UKOH Kherson 03-21:name
+Runways:UKOI Izmail 20-02:centerline
+Runways:UKOI Izmail 20-02:extended centerline 1
+Runways:UKOI Izmail 20-02:extended centerline 1 left base
+Runways:UKOI Izmail 20-02:extended centerline 1 left ticks
+Runways:UKOI Izmail 20-02:extended centerline 1 left vectoring
+Runways:UKOI Izmail 20-02:extended centerline 1 right base
+Runways:UKOI Izmail 20-02:extended centerline 1 right ticks
+Runways:UKOI Izmail 20-02:extended centerline 1 right vectoring
+Runways:UKOI Izmail 20-02:extended centerline 2
+Runways:UKOI Izmail 20-02:extended centerline 2 left base
+Runways:UKOI Izmail 20-02:extended centerline 2 left ticks
+Runways:UKOI Izmail 20-02:extended centerline 2 left vectoring
+Runways:UKOI Izmail 20-02:extended centerline 2 right base
+Runways:UKOI Izmail 20-02:extended centerline 2 right ticks
+Runways:UKOI Izmail 20-02:extended centerline 2 right vectoring
+Runways:UKOI Izmail 20-02:name
+Runways:UKON Mykolaiv 05-23:centerline
+Runways:UKON Mykolaiv 05-23:extended centerline 1
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left base
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 1 left vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right base
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 1 right vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 2
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left base
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 2 left vectoring
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right base
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right ticks
+Runways:UKON Mykolaiv 05-23:extended centerline 2 right vectoring
+Runways:UKON Mykolaiv 05-23:name
+Runways:UKOO Odessa 34-16:centerline
+Runways:UKOO Odessa 34-16:extended centerline 1
+Runways:UKOO Odessa 34-16:extended centerline 1 left base
+Runways:UKOO Odessa 34-16:extended centerline 1 left ticks
+Runways:UKOO Odessa 34-16:extended centerline 1 left vectoring
+Runways:UKOO Odessa 34-16:extended centerline 1 right base
+Runways:UKOO Odessa 34-16:extended centerline 1 right ticks
+Runways:UKOO Odessa 34-16:extended centerline 1 right vectoring
+Runways:UKOO Odessa 34-16:extended centerline 2
+Runways:UKOO Odessa 34-16:extended centerline 2 left base
+Runways:UKOO Odessa 34-16:extended centerline 2 left ticks
+Runways:UKOO Odessa 34-16:extended centerline 2 left vectoring
+Runways:UKOO Odessa 34-16:extended centerline 2 right base
+Runways:UKOO Odessa 34-16:extended centerline 2 right ticks
+Runways:UKOO Odessa 34-16:extended centerline 2 right vectoring
+Runways:UKOO Odessa 34-16:name
+Runways:UKOR Kulbakino 05-23:centerline
+Runways:UKOR Kulbakino 05-23:extended centerline 1
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left base
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 1 left vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right base
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 1 right vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 2
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left base
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 2 left vectoring
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right base
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right ticks
+Runways:UKOR Kulbakino 05-23:extended centerline 2 right vectoring
+Runways:UKOR Kulbakino 05-23:name
+VORs:23K:frequency
+VORs:23K:name
+VORs:23K:symbol
+VORs:38k:frequency
+VORs:38k:name
+VORs:38k:symbol
+VORs:BAH:frequency
+VORs:BAH:name
+VORs:BAH:symbol
+VORs:BRP:frequency
+VORs:BRP:name
+VORs:BRP:symbol
+VORs:DNP:frequency
+VORs:DNP:name
+VORs:DNP:symbol
+VORs:DON:frequency
+VORs:DON:name
+VORs:DON:symbol
+VORs:IVF:frequency
+VORs:IVF:name
+VORs:IVF:symbol
+VORs:KER:frequency
+VORs:KER:name
+VORs:KER:symbol
+VORs:KHR:frequency
+VORs:KHR:name
+VORs:KHR:symbol
+VORs:KSN:frequency
+VORs:KSN:name
+VORs:KSN:symbol
+VORs:KVR:frequency
+VORs:KVR:name
+VORs:KVR:symbol
+VORs:LIV:frequency
+VORs:LIV:name
+VORs:LIV:symbol
+VORs:MRP:frequency
+VORs:MRP:name
+VORs:MRP:symbol
+VORs:ODS:frequency
+VORs:ODS:name
+VORs:ODS:symbol
+VORs:SLV:frequency
+VORs:SLV:name
+VORs:SLV:symbol
+VORs:SMF:frequency
+VORs:SMF:name
+VORs:SMF:symbol
+VORs:STB:frequency
+VORs:STB:name
+VORs:STB:symbol
+VORs:VIN:frequency
+VORs:VIN:name
+VORs:VIN:symbol
+VORs:YHT:frequency
+VORs:YHT:name
+VORs:YHT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:50.341469:30.333860:50.492751:30.767622
